@@ -74,7 +74,7 @@ class SettingsComponent extends Component {
                             placeholder="Enter Email"
                         />                    
                         </FormGroup>
-                        <Button bsStyle="primary" bsSize="large">Save Changes</Button>                    
+                        <Button style={FIXEDBUTTON} bsStyle="primary" bsSize="large">Save Changes</Button>                    
                 </Tab>
                 <Tab eventKey={2} title="Scan History">
                     Scan History
@@ -123,6 +123,12 @@ class SettingsComponent extends Component {
           );
       }
   }
+}
+
+const FIXEDBUTTON = {
+    position: 'center',
+    // bottom: '10px',
+    // texAtlign: 'center'
 }
 
 export default SettingsComponent;

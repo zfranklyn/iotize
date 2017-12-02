@@ -14,6 +14,7 @@ import CommentComponent from './CommentComponent';
 import faker from 'faker';
 
 import SettingsComponent from './settingsComponent';
+import NewCommentComponent from './NewCommentComponent';
 
 class ViewProduct extends Component {
 
@@ -25,6 +26,7 @@ class ViewProduct extends Component {
             userId: '',
             accountCreated: false,
             showModal: true,
+            showCommentModal: true,
           },
           id: '',
           name: '',
@@ -55,6 +57,7 @@ class ViewProduct extends Component {
           userId: 2,
           accountCreated: false,
           showModal: false,
+          showCommentModal: false,
         },
         
         id: 1,
@@ -88,6 +91,7 @@ class ViewProduct extends Component {
         viewState: {
           loaded: true,
           showModal: false,
+          showCommentModal: false,
         }
       });
     }
@@ -99,6 +103,21 @@ class ViewProduct extends Component {
           showModal: true,
         })
       });
+    }
+
+    openCommentModal = () => {
+      const originalViewState = this.state.viewState;
+      this.setState({
+        viewState: Object.assign({}, originalViewState, {
+          showCommentModal: true,
+        })
+      });
+    }
+
+    submitComment = (commentText) => {
+      console.log(commentText);
+      // post
+      this.closeModal();
     }
 
     render() {
@@ -153,7 +172,17 @@ class ViewProduct extends Component {
                         />
                       );
                     })}
-                    <Button bsStyle="primary" bsSize="small" block>Comment</Button>
+
+                    <div style={{position: 'fixed', bottom: 0, left: 0, width: '100%'}}>
+                      <Button
+                        bsStyle="primary"
+                        bsSize="large"
+                        block
+                        onClick={this.openCommentModal}
+                      >
+                      Comment
+                      </Button>
+                    </div>
                   </Tab>
                 </Tabs>
                 </Col>
@@ -165,7 +194,13 @@ class ViewProduct extends Component {
               closeModal={this.closeModal}
               accountCreated={this.state.viewState.accountCreated}
             />
+            <NewCommentComponent
+              showCommentModal={this.state.viewState.showCommentModal}
+              //closeModal={this.closeModal}
+              submitComment={this.submitComment}
+            />
           </div>
+
         );
       } else {
         return (
@@ -174,6 +209,12 @@ class ViewProduct extends Component {
       }
 
     }
+}
+
+const FIXEDBUTTON = {
+  position: 'relative',
+  margin: '0 auto',
+  // texAtlign: 'center'
 }
 
 const FLOATING_BUTTON_STYLE = {
