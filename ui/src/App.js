@@ -1,3 +1,4 @@
+
 import React, { Component } from 'react';
 import './App.css';
 import {
@@ -10,6 +11,8 @@ import {
   Button,
 } from 'react-bootstrap';
 
+import CommentComponent from './CommentComponent';
+
 class App extends Component {
 
   constructor(props) {
@@ -17,6 +20,7 @@ class App extends Component {
     this.state = {
       itemName: '',
       itemDescription: '',
+      comments: [],
     }
   }
 
@@ -28,6 +32,7 @@ class App extends Component {
       Comes with a removable leg hold-down brace for added decline position support
       Corrects posture and stabilizes positioning for a safe, muscle-building free-weight workout
       30-Year warranty on frame, one-year warranty on upholstery`,
+      comments: [{name: 'Alfred', comment: 'Yo'}, {name: 'Franklyn', comment: 'yo'}, {name: 'Francis', comment: 'yo my girlfriend is calling'}]
     });
   }
 
@@ -48,7 +53,19 @@ class App extends Component {
                 </p>
               </Tab>
               <Tab eventKey={2} title="Actions">
-                <Button bsStyle="primary" bsSize="large" block>Block level button</Button>
+                <Button bsStyle="primary" bsSize="small" block>Report Broken</Button>
+              </Tab>
+              <Tab eventKey={3} title="Comments">
+                {this.state.comments.map((commentObject) => {
+                  return (
+                    <CommentComponent
+                      name={commentObject.name}
+                      comment={commentObject.comment}
+                    />
+                  );
+                })}
+
+                <Button bsStyle="primary" bsSize="small" block>Comment</Button>
               </Tab>
             </Tabs>
             </Col>
@@ -58,5 +75,9 @@ class App extends Component {
     );
   }
 }
+
+const testComponent = (
+  <div>HelloWorld</div>
+);
 
 export default App;
