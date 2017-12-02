@@ -14,6 +14,7 @@ import React, { Component } from 'react';
 import faker from 'faker';
 import './VendorSection.css';
 import QR from 'qrcode.react';
+import ObjectDetailsModal from './ObjectDetailsModal';
 
 class VendorSection extends Component {
 
@@ -101,28 +102,11 @@ class VendorSection extends Component {
               );
             })}
           </div>
-          <Modal show={this.state.viewState.showModal} onHide={this.handleCloseModal}>
-            <Modal.Header>
-              Object #N
-            </Modal.Header>
-            <Modal.Body>
-              <Tabs defaultActiveKey={1} id="object-tabs">
-                <Tab eventKey={1} title="Object Data">
-                  <form>
-
-                  </form>
-                </Tab>
-                <Tab eventKey={2} title="Scan History">
-                </Tab>
-                <Tab eventKey={3} title="Settings">
-                </Tab>
-                <Tab eventKey={4} title="QR Code">
-                  <QR value={`https://2b432d53.ngrok.io/u/viewproduct/${this.state.viewState.modalId}`}/>
-                  {`https://2b432d53.ngrok.io/u/viewproduct/${this.state.viewState.modalId}`}
-                </Tab>
-              </Tabs>
-            </Modal.Body>
-          </Modal>
+          <ObjectDetailsModal
+            showModal={this.state.viewState.showModal}
+            objectId={this.state.viewState.modalId}
+            handleCloseModal={this.handleCloseModal}
+          />
         </div>
       );
     } else {
