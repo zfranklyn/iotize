@@ -1,0 +1,1609 @@
+1512193208136	geckodriver	INFO	geckodriver 0.19.1
+1512193208144	geckodriver	INFO	Listening on 127.0.0.1:65440
+1512193211220	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/mt/w9kbvqpn6hx2kgsrbxlb0xt40000gn/T/rust_mozprofile.WHJsGOBj6B2Z"
+1512193212159	Marionette	INFO	Enabled via --marionette
+2017-12-02 00:40:13.281 plugin-container[63729:3153130] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb73f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512193213918	Marionette	INFO	Listening on port 65457
+1512193214381	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512193214436	Marionette	DEBUG	Register listener.js for window 2147483649
+1512193214451	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512193214519	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512193214519	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512193216106	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512193215469, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512193215469, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512193215469, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512193215469, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512193215469, line 27: unreachable code after return statement
+1512193216956	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/"
+1512193503007	geckodriver	INFO	geckodriver 0.19.1
+1512193503012	geckodriver	INFO	Listening on 127.0.0.1:50301
+1512193506093	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/mt/w9kbvqpn6hx2kgsrbxlb0xt40000gn/T/rust_mozprofile.GGivMWuUS9XO"
+1512193506797	Marionette	INFO	Enabled via --marionette
+2017-12-02 00:45:07.779 plugin-container[63890:3158772] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb03b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512193508242	Marionette	INFO	Listening on port 50319
+1512193509245	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512193509296	Marionette	DEBUG	Register listener.js for window 2147483649
+1512193509308	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512193509405	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512193509409	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512193509409	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512193509510	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=nssFailure2&u=https%3A//www.express/&c=UTF-8&f=regular&d=The%20connection%20to%20www.express%20was%20interrupted%20while%20the%20page%20was%20loading."
+1512193620673	geckodriver	INFO	geckodriver 0.19.1
+1512193620686	geckodriver	INFO	Listening on 127.0.0.1:50824
+1512193623750	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/mt/w9kbvqpn6hx2kgsrbxlb0xt40000gn/T/rust_mozprofile.Ja1YCaxpsBOH"
+1512193624608	Marionette	INFO	Enabled via --marionette
+2017-12-02 00:47:05.754 plugin-container[63957:3162596] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xaf43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512193626218	Marionette	INFO	Listening on port 50841
+1512193626920	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512193626989	Marionette	DEBUG	Register listener.js for window 2147483649
+1512193627011	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512193627075	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512193627075	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512193628312	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512193627825, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512193627825, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512193627825, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512193627825, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512193627825, line 40: unreachable code after return statement
+1512193629089	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/"
+1512193831609	geckodriver	INFO	geckodriver 0.19.1
+1512193831613	geckodriver	INFO	Listening on 127.0.0.1:51732
+1512193834698	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/mt/w9kbvqpn6hx2kgsrbxlb0xt40000gn/T/rust_mozprofile.hFm0VhcvC5jT"
+1512193835412	Marionette	INFO	Enabled via --marionette
+2017-12-02 00:50:36.413 plugin-container[64068:3166154] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb73f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512193836839	Marionette	INFO	Listening on port 51751
+1512193837850	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512193837904	Marionette	DEBUG	Register listener.js for window 2147483649
+1512193837916	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512193838048	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512193838049	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512193839133	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512193838684, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512193838684, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512193838684, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512193838684, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512193838684, line 40: unreachable code after return statement
+1512193839840	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/"
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.express.com
+1512193972330	geckodriver	INFO	geckodriver 0.19.1
+1512193972335	geckodriver	INFO	Listening on 127.0.0.1:52351
+1512193975414	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/mt/w9kbvqpn6hx2kgsrbxlb0xt40000gn/T/rust_mozprofile.Ywjo0q6mqbeY"
+1512193976107	Marionette	INFO	Enabled via --marionette
+2017-12-02 00:52:57.103 plugin-container[64135:3168432] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512193977462	Marionette	INFO	Listening on port 52367
+1512193978580	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512193978630	Marionette	DEBUG	Register listener.js for window 2147483649
+1512193978643	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512193978718	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512193978719	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512193979928	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512193979589, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512193979589, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512193979589, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512193979589, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512193979589, line 40: unreachable code after return statement
+1512193980653	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1512194082277	geckodriver	INFO	geckodriver 0.19.1
+1512194082281	geckodriver	INFO	Listening on 127.0.0.1:52881
+1512194085356	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/mt/w9kbvqpn6hx2kgsrbxlb0xt40000gn/T/rust_mozprofile.z0jCLV6XJDB4"
+1512194085985	Marionette	INFO	Enabled via --marionette
+2017-12-02 00:54:46.938 plugin-container[64189:3170318] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb73f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512194087349	Marionette	INFO	Listening on port 52898
+1512194087402	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512194087465	Marionette	DEBUG	Register listener.js for window 2147483649
+1512194087609	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512194087681	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512194087682	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512194088655	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194088243, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194088243, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194088243, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194088243, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194088243, line 27: unreachable code after return statement
+1512194089463	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1512194129445	geckodriver	INFO	geckodriver 0.19.1
+1512194129450	geckodriver	INFO	Listening on 127.0.0.1:53177
+1512194130524	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/mt/w9kbvqpn6hx2kgsrbxlb0xt40000gn/T/rust_mozprofile.iyWSYnQ2lhjq"
+1512194131204	Marionette	INFO	Enabled via --marionette
+2017-12-02 00:55:32.167 plugin-container[64215:3171495] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb63f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512194132541	Marionette	INFO	Listening on port 53184
+1512194132550	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512194132624	Marionette	DEBUG	Register listener.js for window 2147483649
+1512194132648	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512194132720	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512194132720	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512194133946	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194133479, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194133479, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194133479, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194133479, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194133479, line 40: unreachable code after return statement
+1512194134675	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512194147389	geckodriver	INFO	geckodriver 0.19.1
+1512194147394	geckodriver	INFO	Listening on 127.0.0.1:53366
+1512194150470	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/mt/w9kbvqpn6hx2kgsrbxlb0xt40000gn/T/rust_mozprofile.0bl0rOuZg5Hm"
+1512194151118	Marionette	INFO	Enabled via --marionette
+2017-12-02 00:55:52.148 plugin-container[64226:3171848] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb73f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512194152523	Marionette	INFO	Listening on port 53383
+1512194153619	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512194153672	Marionette	DEBUG	Register listener.js for window 2147483649
+1512194153684	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512194153866	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512194153867	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512194155149	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194154660, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194154660, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194154660, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194154660, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194154660, line 27: unreachable code after return statement
+1512194155903	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1512194308894	geckodriver	INFO	geckodriver 0.19.1
+1512194308901	geckodriver	INFO	Listening on 127.0.0.1:54147
+1512194311971	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/mt/w9kbvqpn6hx2kgsrbxlb0xt40000gn/T/rust_mozprofile.nVlJkMes0Zwn"
+1512194312673	Marionette	INFO	Enabled via --marionette
+2017-12-02 00:58:33.732 plugin-container[64307:3175145] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512194314166	Marionette	INFO	Listening on port 54164
+1512194315124	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512194315179	Marionette	DEBUG	Register listener.js for window 2147483649
+1512194315195	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512194315275	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512194315275	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512194316527	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194316038, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194316038, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194316038, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194316038, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194316038, line 27: unreachable code after return statement
+1512194317170	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512194378934	geckodriver	INFO	geckodriver 0.19.1
+1512194378939	geckodriver	INFO	Listening on 127.0.0.1:54546
+1512194379128	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/mt/w9kbvqpn6hx2kgsrbxlb0xt40000gn/T/rust_mozprofile.n4XwcOG6u0La"
+1512194379877	Marionette	INFO	Enabled via --marionette
+2017-12-02 00:59:40.902 plugin-container[64364:3176561] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512194381295	Marionette	INFO	Listening on port 54554
+1512194381617	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512194381686	Marionette	DEBUG	Register listener.js for window 2147483649
+1512194381713	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512194381794	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512194381794	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512194383060	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194382570, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194382570, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194382570, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194382570, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194382570, line 27: unreachable code after return statement
+1512194383954	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+1512194466029	geckodriver	INFO	geckodriver 0.19.1
+1512194466034	geckodriver	INFO	Listening on 127.0.0.1:55027
+1512194466229	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/mt/w9kbvqpn6hx2kgsrbxlb0xt40000gn/T/rust_mozprofile.vQeBvtIU9all"
+1512194466942	Marionette	INFO	Enabled via --marionette
+2017-12-02 01:01:07.978 plugin-container[64414:3179021] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-12-02 01:01:08.230 plugin-container[64414:3179021] Error received in message reply handler: Connection invalid
+2017-12-02 01:01:08.230 plugin-container[64414:3179025] Connection Invalid error for service com.apple.hiservices-xpcservice.
+1512194468417	Marionette	INFO	Listening on port 55031
+2017-12-02 01:01:08.475 plugin-container[64414:3179026] Error received in message reply handler: Connection invalid
+2017-12-02 01:01:08.475 plugin-container[64414:3179026] Error received in message reply handler: Connection invalid
+2017-12-02 01:01:08.481 plugin-container[64414:3179046] Error received in message reply handler: Connection invalid
+1512194468684	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512194468746	Marionette	DEBUG	Register listener.js for window 2147483649
+1512194468767	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512194468899	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512194468901	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512194470240	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194469816, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194469816, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194469816, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194469816, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194469816, line 27: unreachable code after return statement
+1512194470967	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+1512194801680	geckodriver	INFO	geckodriver 0.19.1
+1512194801685	geckodriver	INFO	Listening on 127.0.0.1:56579
+1512194801880	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/mt/w9kbvqpn6hx2kgsrbxlb0xt40000gn/T/rust_mozprofile.CgqzMqTUFHDD"
+1512194802616	Marionette	INFO	Enabled via --marionette
+2017-12-02 01:06:43.639 plugin-container[64571:3185267] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb143, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512194804102	Marionette	INFO	Listening on port 56585
+1512194804372	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512194804428	Marionette	DEBUG	Register listener.js for window 2147483649
+1512194804441	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512194806837	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512194806838	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512194809411	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194808993, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194808993, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194808993, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194808993, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194808993, line 27: unreachable code after return statement
+1512194810203	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 64571, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1512194896049	geckodriver	INFO	geckodriver 0.19.1
+1512194896054	geckodriver	INFO	Listening on 127.0.0.1:57100
+1512194896251	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/mt/w9kbvqpn6hx2kgsrbxlb0xt40000gn/T/rust_mozprofile.DTWuMCMkQHD0"
+1512194896993	Marionette	INFO	Enabled via --marionette
+2017-12-02 01:08:18.092 plugin-container[64618:3187652] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb73f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512194898469	Marionette	INFO	Listening on port 57108
+1512194898777	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512194898835	Marionette	DEBUG	Register listener.js for window 2147483649
+1512194898849	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512194898915	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512194898915	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512194900032	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194899584, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194899584, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194899584, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194899584, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194899584, line 27: unreachable code after return statement
+1512194900819	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+1512194993061	geckodriver	INFO	geckodriver 0.19.1
+1512194993069	geckodriver	INFO	Listening on 127.0.0.1:57616
+1512194993261	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/mt/w9kbvqpn6hx2kgsrbxlb0xt40000gn/T/rust_mozprofile.m8E7v5sE9HQN"
+1512194993998	Marionette	INFO	Enabled via --marionette
+2017-12-02 01:09:55.006 plugin-container[64671:3189899] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512194995434	Marionette	INFO	Listening on port 57620
+1512194995724	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512194995793	Marionette	DEBUG	Register listener.js for window 2147483649
+1512194995809	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512194995869	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512194995870	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512194997106	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194996717, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194996717, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194996717, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194996717, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512194996717, line 27: unreachable code after return statement
+1512194997809	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1512195074820	geckodriver	INFO	geckodriver 0.19.1
+1512195074827	geckodriver	INFO	Listening on 127.0.0.1:58103
+1512195075021	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/mt/w9kbvqpn6hx2kgsrbxlb0xt40000gn/T/rust_mozprofile.c5fQtpcKD0wY"
+1512195075733	Marionette	INFO	Enabled via --marionette
+2017-12-02 01:11:16.738 plugin-container[64714:3191847] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512195077234	Marionette	INFO	Listening on port 58109
+1512195077485	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512195077555	Marionette	DEBUG	Register listener.js for window 2147483649
+1512195077570	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512195077659	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512195077660	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512195078717	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195078312, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195078312, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195078312, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195078312, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195078312, line 27: unreachable code after return statement
+1512195079415	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/"
+1512195081228	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/exp/search?q=search+value"
+1512195081340	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/exp/search?q=search+value"
+1512195081344	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/exp/search?q=search+value"
+1512195081867	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/mens-clothing/suiting/tuxedo/cat1920015"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195081612, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195081612, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195081612, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195081612, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195081612, line 40: unreachable code after return statement
+1512195082528	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/mens-clothing/suiting/tuxedo/cat1920015"
+1512195082569	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/mens-clothing/suiting/tuxedo/cat1920015"
+1512195082944	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/mens-clothing/suiting/tuxedo/cat1920015"
+1512195082947	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/mens-clothing/suiting/tuxedo/cat1920015"
+1512195083082	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483678"
+1512195083082	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1512195083083	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1512195083548	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/mens-clothing/suiting/suiting-accessories/cat2170002"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195083244, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195083244, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195083244, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195083244, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195083244, line 40: unreachable code after return statement
+1512195084442	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/mens-clothing/suiting/suiting-accessories/cat2170002"
+1512195084499	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/mens-clothing/suiting/suiting-accessories/cat2170002"
+1512195084539	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/mens-clothing/suiting/suiting-accessories/cat2170002"
+1512195084541	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/mens-clothing/suiting/suiting-accessories/cat2170002"
+1512195085448	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/cat2980002?selectedColor=PITCH%20BLACK"
+1512195085450	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483688"
+1512195085452	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483682"
+1512195085452	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483686"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512195087949	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/color/SPICE%20BROWN?selectedColor=PITCH%20BLACK"
+1512195087998	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/color/SPICE%20BROWN?selectedColor=PITCH%20BLACK"
+1512195088037	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/color/SPICE%20BROWN?selectedColor=PITCH%20BLACK"
+1512195088038	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/color/SPICE%20BROWN?selectedColor=PITCH%20BLACK"
+1512195088791	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/cat2980002?selectedColor=DARK%20GREEN"
+1512195088794	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483704"
+1512195088797	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483696"
+1512195088799	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483692"
+1512195088800	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483694"
+1512195088801	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483698"
+1512195088802	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483702"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512195090735	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/color/SPICE%20BROWN?selectedColor=DARK%20GREEN"
+1512195090800	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/color/SPICE%20BROWN?selectedColor=DARK%20GREEN"
+1512195090832	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/color/SPICE%20BROWN?selectedColor=DARK%20GREEN"
+1512195090834	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/color/SPICE%20BROWN?selectedColor=DARK%20GREEN"
+1512195091500	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/cat2980002?selectedColor=PINK%20ALERT"
+1512195091504	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483719"
+1512195091505	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483721"
+1512195091506	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483709"
+1512195091507	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483711"
+1512195091510	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483713"
+1512195091510	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483717"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512195093285	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/color/SPICE%20BROWN?selectedColor=PINK%20ALERT"
+1512195093340	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/color/SPICE%20BROWN?selectedColor=PINK%20ALERT"
+1512195093379	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/color/SPICE%20BROWN?selectedColor=PINK%20ALERT"
+1512195093380	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/color/SPICE%20BROWN?selectedColor=PINK%20ALERT"
+1512195094116	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/cat2980002?selectedColor=SPICE%20BROWN"
+1512195094121	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483733"
+1512195094121	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483735"
+1512195094122	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483725"
+1512195094123	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483727"
+1512195094125	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483731"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512195096414	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/color/SPICE%20BROWN?selectedColor=SPICE%20BROWN"
+1512195096472	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/color/SPICE%20BROWN?selectedColor=SPICE%20BROWN"
+1512195096507	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/color/SPICE%20BROWN?selectedColor=SPICE%20BROWN"
+1512195096508	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/color/SPICE%20BROWN?selectedColor=SPICE%20BROWN"
+1512195097256	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/cat2980002?selectedColor=PINK%20GRAPEFRUIT"
+1512195097261	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483747"
+1512195097263	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483749"
+1512195097264	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483739"
+1512195097265	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483741"
+1512195097266	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483745"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512195099187	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/color/SPICE%20BROWN?selectedColor=PINK%20GRAPEFRUIT"
+1512195099547	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/color/SPICE%20BROWN?selectedColor=PINK%20GRAPEFRUIT"
+1512195099577	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/color/SPICE%20BROWN?selectedColor=PINK%20GRAPEFRUIT"
+1512195099578	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/color/SPICE%20BROWN?selectedColor=PINK%20GRAPEFRUIT"
+1512195100415	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/cat2980002?selectedColor=BLUE%20DIAMOND"
+1512195100420	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483761"
+1512195100422	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483763"
+1512195100422	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483753"
+1512195100422	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483755"
+1512195100423	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483759"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512195102404	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/color/SPICE%20BROWN?selectedColor=BLUE%20DIAMOND"
+1512195102461	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/color/SPICE%20BROWN?selectedColor=BLUE%20DIAMOND"
+1512195102495	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/color/SPICE%20BROWN?selectedColor=BLUE%20DIAMOND"
+1512195102496	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/color/SPICE%20BROWN?selectedColor=BLUE%20DIAMOND"
+1512195103173	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/cat2980002"
+1512195103177	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483775"
+1512195103178	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483777"
+1512195103178	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483767"
+1512195103178	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483769"
+1512195103179	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483773"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512195105080	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/color/SPICE%20BROWN"
+1512195105180	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/color/SPICE%20BROWN"
+1512195105201	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/color/SPICE%20BROWN"
+1512195105202	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/color/SPICE%20BROWN"
+1512195106609	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/cat2980002"
+1512195106610	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483789"
+1512195106611	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483791"
+1512195106611	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483781"
+1512195106611	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483783"
+1512195106611	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483787"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+1512195108095	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/color/SPICE%20BROWN"
+1512195108147	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/color/SPICE%20BROWN"
+1512195108170	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/color/SPICE%20BROWN"
+1512195108170	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/color/SPICE%20BROWN"
+1512195108915	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/cat2980002"
+1512195108922	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483804"
+1512195108923	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483806"
+1512195108923	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483796"
+1512195108925	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483798"
+1512195108926	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483802"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+1512195110638	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/color/SPICE%20BROWN"
+1512195110690	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/color/SPICE%20BROWN"
+1512195110769	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/color/SPICE%20BROWN"
+1512195110770	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/women/volume-sleeve-extreme-circle-hem-sweater/pro/08379831/color/SPICE%20BROWN"
+1512195111832	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/women/extreme-circle-hem-volume-sleeve-sweater/pro/08379832/cat2980002?selectedColor=NEUTRAL"
+1512195111833	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483818"
+1512195111834	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483820"
+1512195111835	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483810"
+1512195111836	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483812"
+1512195111837	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483816"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512195113385	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/women/extreme-circle-hem-volume-sleeve-sweater/pro/08379832/color/NEUTRAL?selectedColor=NEUTRAL"
+1512195113489	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/women/extreme-circle-hem-volume-sleeve-sweater/pro/08379832/color/NEUTRAL?selectedColor=NEUTRAL"
+1512195113531	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/women/extreme-circle-hem-volume-sleeve-sweater/pro/08379832/color/NEUTRAL?selectedColor=NEUTRAL"
+1512195113532	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/women/extreme-circle-hem-volume-sleeve-sweater/pro/08379832/color/NEUTRAL?selectedColor=NEUTRAL"
+1512195114254	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/women/extreme-circle-hem-volume-sleeve-sweater/pro/08379832/cat2980002?selectedColor=GRAY"
+1512195114256	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483833"
+1512195114257	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483835"
+1512195114257	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483825"
+1512195114257	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483827"
+1512195114257	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483831"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512195115904	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/women/extreme-circle-hem-volume-sleeve-sweater/pro/08379832/color/NEUTRAL?selectedColor=GRAY"
+1512195116002	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/women/extreme-circle-hem-volume-sleeve-sweater/pro/08379832/color/NEUTRAL?selectedColor=GRAY"
+1512195116026	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/women/extreme-circle-hem-volume-sleeve-sweater/pro/08379832/color/NEUTRAL?selectedColor=GRAY"
+1512195116027	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/women/extreme-circle-hem-volume-sleeve-sweater/pro/08379832/color/NEUTRAL?selectedColor=GRAY"
+1512195117985	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/women/extreme-circle-hem-volume-sleeve-sweater/pro/08379832/cat2980002"
+1512195118001	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483848"
+1512195118003	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483850"
+1512195118004	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483840"
+1512195118005	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483842"
+1512195118006	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483846"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+1512195119476	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/women/extreme-circle-hem-volume-sleeve-sweater/pro/08379832/color/NEUTRAL"
+1512195119532	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/women/extreme-circle-hem-volume-sleeve-sweater/pro/08379832/color/NEUTRAL"
+1512195119585	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/women/extreme-circle-hem-volume-sleeve-sweater/pro/08379832/color/NEUTRAL"
+1512195119585	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/women/extreme-circle-hem-volume-sleeve-sweater/pro/08379832/color/NEUTRAL"
+1512195120349	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/women/extreme-circle-hem-volume-sleeve-sweater/pro/08379832/cat2980002"
+1512195120356	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483863"
+1512195120357	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483865"
+1512195120358	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483855"
+1512195120359	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483857"
+1512195120359	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483861"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+1512195122227	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/women/extreme-circle-hem-volume-sleeve-sweater/pro/08379832/color/NEUTRAL"
+1512195122301	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/women/extreme-circle-hem-volume-sleeve-sweater/pro/08379832/color/NEUTRAL"
+1512195122324	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/women/extreme-circle-hem-volume-sleeve-sweater/pro/08379832/color/NEUTRAL"
+1512195122325	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/women/extreme-circle-hem-volume-sleeve-sweater/pro/08379832/color/NEUTRAL"
+1512195123039	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/women/extreme-circle-hem-volume-sleeve-sweater/pro/08379832/cat2980002"
+1512195123043	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483878"
+1512195123044	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483880"
+1512195123044	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483870"
+1512195123045	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483872"
+1512195123045	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483876"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512195124580	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/women/extreme-circle-hem-volume-sleeve-sweater/pro/08379832/color/NEUTRAL"
+1512195124635	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/women/extreme-circle-hem-volume-sleeve-sweater/pro/08379832/color/NEUTRAL"
+1512195125122	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/women/extreme-circle-hem-volume-sleeve-sweater/pro/08379832/color/NEUTRAL"
+1512195125124	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/women/extreme-circle-hem-volume-sleeve-sweater/pro/08379832/color/NEUTRAL"
+1512195126025	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/women/off-the-shoulder-volume-sleeve-tunic-sweater/pro/08379894/cat430028"
+1512195126028	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483892"
+1512195126030	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483894"
+1512195126032	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483884"
+1512195126033	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483886"
+1512195126033	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483890"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512195127341	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/women/off-the-shoulder-volume-sleeve-tunic-sweater/pro/08379894/color/GRAY%20PRINT"
+1512195127407	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/women/off-the-shoulder-volume-sleeve-tunic-sweater/pro/08379894/color/GRAY%20PRINT"
+1512195127455	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/women/off-the-shoulder-volume-sleeve-tunic-sweater/pro/08379894/color/GRAY%20PRINT"
+1512195127456	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/women/off-the-shoulder-volume-sleeve-tunic-sweater/pro/08379894/color/GRAY%20PRINT"
+1512195128231	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/women/off-the-shoulder-volume-sleeve-tunic-sweater/pro/08379894/cat430028"
+1512195128233	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483907"
+1512195128233	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483909"
+1512195128234	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483899"
+1512195128236	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483901"
+1512195128237	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483905"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512195129800	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/women/off-the-shoulder-volume-sleeve-tunic-sweater/pro/08379894/color/GRAY%20PRINT"
+1512195129894	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/women/off-the-shoulder-volume-sleeve-tunic-sweater/pro/08379894/color/GRAY%20PRINT"
+1512195129910	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/women/off-the-shoulder-volume-sleeve-tunic-sweater/pro/08379894/color/GRAY%20PRINT"
+1512195129911	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/women/off-the-shoulder-volume-sleeve-tunic-sweater/pro/08379894/color/GRAY%20PRINT"
+1512195132430	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/women/off-the-shoulder-volume-sleeve-tunic-sweater/pro/08379894/cat430028"
+1512195132433	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483922"
+1512195132433	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483924"
+1512195132434	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483914"
+1512195132436	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483916"
+1512195132437	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483920"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512195133662	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/women/off-the-shoulder-volume-sleeve-tunic-sweater/pro/08379894/color/GRAY%20PRINT"
+1512195133714	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/women/off-the-shoulder-volume-sleeve-tunic-sweater/pro/08379894/color/GRAY%20PRINT"
+1512195133951	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/women/off-the-shoulder-volume-sleeve-tunic-sweater/pro/08379894/color/GRAY%20PRINT"
+1512195133953	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/women/off-the-shoulder-volume-sleeve-tunic-sweater/pro/08379894/color/GRAY%20PRINT"
+1512195134661	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/women/petite-volume-sleeve-extreme-circle-hem-sweater/pro/08378831/cat430028?selectedColor=DARK%20GREEN"
+1512195134664	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483935"
+1512195134665	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483937"
+1512195134666	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483927"
+1512195134668	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483929"
+1512195134669	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483933"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512195136837	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/women/petite-volume-sleeve-extreme-circle-hem-sweater/pro/08378831/color/PINK%20GRAPEFRUIT/size/M%20Petite?selectedColor=DARK%20GREEN"
+1512195136928	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/women/petite-volume-sleeve-extreme-circle-hem-sweater/pro/08378831/color/PINK%20GRAPEFRUIT/size/M%20Petite?selectedColor=DARK%20GREEN"
+1512195136970	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/women/petite-volume-sleeve-extreme-circle-hem-sweater/pro/08378831/color/PINK%20GRAPEFRUIT/size/M%20Petite?selectedColor=DARK%20GREEN"
+1512195136971	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/women/petite-volume-sleeve-extreme-circle-hem-sweater/pro/08378831/color/PINK%20GRAPEFRUIT/size/M%20Petite?selectedColor=DARK%20GREEN"
+1512195137627	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/women/petite-volume-sleeve-extreme-circle-hem-sweater/pro/08378831/cat430028?selectedColor=PITCH%20BLACK"
+1512195137633	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483950"
+1512195137634	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483952"
+1512195137635	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483942"
+1512195137636	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483944"
+1512195137638	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483948"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+1512195139603	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/women/petite-volume-sleeve-extreme-circle-hem-sweater/pro/08378831/color/PINK%20GRAPEFRUIT/size/M%20Petite?selectedColor=PITCH%20BLACK"
+1512195139739	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/women/petite-volume-sleeve-extreme-circle-hem-sweater/pro/08378831/color/PINK%20GRAPEFRUIT/size/M%20Petite?selectedColor=PITCH%20BLACK"
+1512195140043	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/women/petite-volume-sleeve-extreme-circle-hem-sweater/pro/08378831/color/PINK%20GRAPEFRUIT/size/M%20Petite?selectedColor=PITCH%20BLACK"
+1512195140078	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/women/petite-volume-sleeve-extreme-circle-hem-sweater/pro/08378831/color/PINK%20GRAPEFRUIT/size/M%20Petite?selectedColor=PITCH%20BLACK"
+1512195140836	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/women/petite-volume-sleeve-extreme-circle-hem-sweater/pro/08378831/cat430028?selectedColor=PINK%20GRAPEFRUIT"
+1512195140840	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483965"
+1512195140846	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483967"
+1512195140847	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483957"
+1512195140847	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483959"
+1512195140847	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483963"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+1512195143650	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/women/petite-volume-sleeve-extreme-circle-hem-sweater/pro/08378831/color/PINK%20GRAPEFRUIT/size/M%20Petite?selectedColor=PINK%20GRAPEFRUIT"
+1512195143735	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/women/petite-volume-sleeve-extreme-circle-hem-sweater/pro/08378831/color/PINK%20GRAPEFRUIT/size/M%20Petite?selectedColor=PINK%20GRAPEFRUIT"
+1512195143782	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/women/petite-volume-sleeve-extreme-circle-hem-sweater/pro/08378831/color/PINK%20GRAPEFRUIT/size/M%20Petite?selectedColor=PINK%20GRAPEFRUIT"
+1512195143783	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/women/petite-volume-sleeve-extreme-circle-hem-sweater/pro/08378831/color/PINK%20GRAPEFRUIT/size/M%20Petite?selectedColor=PINK%20GRAPEFRUIT"
+1512195192365	geckodriver	INFO	geckodriver 0.19.1
+1512195192370	geckodriver	INFO	Listening on 127.0.0.1:58814
+1512195192567	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/mt/w9kbvqpn6hx2kgsrbxlb0xt40000gn/T/rust_mozprofile.j8Za1NRI1LNR"
+1512195193339	Marionette	INFO	Enabled via --marionette
+2017-12-02 01:13:14.353 plugin-container[64774:3194767] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb63f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512195194794	Marionette	INFO	Listening on port 58818
+1512195195074	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512195195134	Marionette	DEBUG	Register listener.js for window 2147483649
+1512195195149	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512195195215	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512195195215	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512195196404	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195195966, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195195966, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195195966, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195195966, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195195966, line 27: unreachable code after return statement
+1512195197093	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512195404458	geckodriver	INFO	geckodriver 0.19.1
+1512195404464	geckodriver	INFO	Listening on 127.0.0.1:59887
+1512195404665	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/mt/w9kbvqpn6hx2kgsrbxlb0xt40000gn/T/rust_mozprofile.mkjtBach6FWc"
+1512195405421	Marionette	INFO	Enabled via --marionette
+2017-12-02 01:16:46.490 plugin-container[64881:3200494] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb73f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512195406875	Marionette	INFO	Listening on port 59893
+1512195407148	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512195407204	Marionette	DEBUG	Register listener.js for window 2147483649
+1512195407220	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512195407278	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512195407278	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512195408402	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195407959, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195407959, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195407959, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195407959, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195407959, line 27: unreachable code after return statement
+1512195409125	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+1512195449614	geckodriver	INFO	geckodriver 0.19.1
+1512195449619	geckodriver	INFO	Listening on 127.0.0.1:60215
+1512195449797	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/mt/w9kbvqpn6hx2kgsrbxlb0xt40000gn/T/rust_mozprofile.tF3Psm2FhcuU"
+1512195450520	Marionette	INFO	Enabled via --marionette
+2017-12-02 01:17:31.517 plugin-container[64908:3201954] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb73f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512195451899	Marionette	INFO	Listening on port 60219
+1512195452249	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512195452310	Marionette	DEBUG	Register listener.js for window 2147483649
+1512195452330	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512195452431	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512195452431	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512195453451	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195453022, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195453022, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195453022, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195453022, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195453022, line 27: unreachable code after return statement
+1512195454128	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512195611260	geckodriver	INFO	geckodriver 0.19.1
+1512195611264	geckodriver	INFO	Listening on 127.0.0.1:61114
+1512195611446	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/mt/w9kbvqpn6hx2kgsrbxlb0xt40000gn/T/rust_mozprofile.8884asXzY6mL"
+1512195612169	Marionette	INFO	Enabled via --marionette
+2017-12-02 01:20:13.298 plugin-container[64991:3206164] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512195613692	Marionette	INFO	Listening on port 61118
+1512195613998	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512195614063	Marionette	DEBUG	Register listener.js for window 2147483649
+1512195614079	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512195614474	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512195614475	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512195615693	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195615149, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195615149, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195615149, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195615149, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195615149, line 27: unreachable code after return statement
+1512195616544	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+1512195662885	geckodriver	INFO	geckodriver 0.19.1
+1512195662891	geckodriver	INFO	Listening on 127.0.0.1:61449
+1512195663090	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/mt/w9kbvqpn6hx2kgsrbxlb0xt40000gn/T/rust_mozprofile.ETr7oBVPaal8"
+1512195663806	Marionette	INFO	Enabled via --marionette
+2017-12-02 01:21:04.835 plugin-container[65017:3207668] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb63f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512195665240	Marionette	INFO	Listening on port 61453
+1512195665542	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512195665598	Marionette	DEBUG	Register listener.js for window 2147483649
+1512195665612	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512195665673	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512195665673	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512195666945	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195666524, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195666524, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195666524, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195666524, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195666524, line 40: unreachable code after return statement
+1512195667636	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512195670318	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/exp/search?q=shirts"
+1512195670369	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/exp/search?q=shirts"
+1512195670369	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/exp/search?q=shirts"
+1512195670493	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483679"
+1512195670493	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1512195670494	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1512195670895	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/mens-clothing/suiting/tuxedo/cat1920015"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195670630, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195670630, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195670630, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195670630, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195670630, line 27: unreachable code after return statement
+1512195671596	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/mens-clothing/suiting/tuxedo/cat1920015"
+1512195671631	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/mens-clothing/suiting/tuxedo/cat1920015"
+1512195671682	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/mens-clothing/suiting/tuxedo/cat1920015"
+1512195671683	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/mens-clothing/suiting/tuxedo/cat1920015"
+1512195671795	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483690"
+1512195671795	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483684"
+1512195671796	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483688"
+1512195672246	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/mens-clothing/suiting/suiting-accessories/cat2170002"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195671930, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195671930, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195671930, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195671930, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512195671930, line 27: unreachable code after return statement
+1512195673141	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/mens-clothing/suiting/suiting-accessories/cat2170002"
+1512195673211	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/mens-clothing/suiting/suiting-accessories/cat2170002"
+1512195673272	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/mens-clothing/suiting/suiting-accessories/cat2170002"
+1512195673272	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/mens-clothing/suiting/suiting-accessories/cat2170002"
+1512195674357	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/men/slim-easy-care-1mx-shirt/pro/00302147/cat700001?selectedColor=BLACK"
+1512195674371	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483700"
+1512195674372	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483694"
+1512195674373	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483698"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512195677108	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=BLACK"
+1512195677175	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=BLACK"
+1512195677250	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=BLACK"
+1512195677251	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=BLACK"
+1512195677971	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/men/slim-easy-care-1mx-shirt/pro/00302147/cat700001?selectedColor=WHITE"
+1512195677978	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483717"
+1512195677979	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483709"
+1512195677979	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483705"
+1512195677980	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483707"
+1512195677981	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483711"
+1512195677982	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483715"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+1512195680130	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=WHITE"
+1512195680193	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=WHITE"
+1512195680244	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=WHITE"
+1512195680245	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=WHITE"
+1512195680948	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/men/slim-easy-care-1mx-shirt/pro/00302147/cat700001?selectedColor=NAVY"
+1512195680962	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483730"
+1512195680964	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483732"
+1512195680965	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483722"
+1512195680966	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483724"
+1512195680967	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483728"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+1512195683672	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=NAVY"
+1512195683733	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=NAVY"
+1512195683782	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=NAVY"
+1512195683784	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=NAVY"
+1512195684469	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/men/slim-easy-care-1mx-shirt/pro/00302147/cat700001?selectedColor=SKY%20BLUE"
+1512195684477	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483744"
+1512195684479	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483746"
+1512195684479	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483736"
+1512195684480	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483738"
+1512195684481	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483742"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+1512195687263	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=SKY%20BLUE"
+1512195687333	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=SKY%20BLUE"
+1512195687383	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=SKY%20BLUE"
+1512195687383	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=SKY%20BLUE"
+1512195688084	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/men/slim-easy-care-1mx-shirt/pro/00302147/cat700001?selectedColor=CRIMSON%20RED"
+1512195688090	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483759"
+1512195688091	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483761"
+1512195688091	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483751"
+1512195688092	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483753"
+1512195688092	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483757"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+1512195691013	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=CRIMSON%20RED"
+1512195691066	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=CRIMSON%20RED"
+1512195691099	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=CRIMSON%20RED"
+1512195691100	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=CRIMSON%20RED"
+1512195691803	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/men/slim-easy-care-1mx-shirt/pro/00302147/cat700001"
+1512195691809	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483775"
+1512195691810	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483777"
+1512195691814	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483767"
+1512195691815	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483769"
+1512195691816	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483773"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512195694852	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE"
+1512195694903	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE"
+1512195694941	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE"
+1512195694941	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE"
+1512195695614	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/men/slim-easy-care-1mx-shirt/pro/00302147/cat700001"
+1512195695617	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483790"
+1512195695618	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483792"
+1512195695618	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483782"
+1512195695619	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483784"
+1512195695620	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483788"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512195697233	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE"
+1512195697304	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE"
+1512195697377	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE"
+1512195697377	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE"
+1512195698090	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/men/slim-easy-care-1mx-shirt/pro/00302147/cat700001"
+1512195698095	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483805"
+1512195698096	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483807"
+1512195698096	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483797"
+1512195698097	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483799"
+1512195698097	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483803"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512195700620	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE"
+1512195700669	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE"
+1512195700872	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE"
+1512195700873	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE"
+1512195701636	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/men/extra-slim-fit-1mx-shirt/pro/00302144/cat3450004?selectedColor=BLACK"
+1512195701640	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483821"
+1512195701645	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483823"
+1512195701647	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483813"
+1512195701648	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483815"
+1512195701649	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483819"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512195703923	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/men/extra-slim-fit-1mx-shirt/pro/00302144/color/BLACK?selectedColor=BLACK"
+1512195703999	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/men/extra-slim-fit-1mx-shirt/pro/00302144/color/BLACK?selectedColor=BLACK"
+1512195704038	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/men/extra-slim-fit-1mx-shirt/pro/00302144/color/BLACK?selectedColor=BLACK"
+1512195704039	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/men/extra-slim-fit-1mx-shirt/pro/00302144/color/BLACK?selectedColor=BLACK"
+1512195704811	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/men/extra-slim-fit-1mx-shirt/pro/00302144/cat3450004?selectedColor=WHITE"
+1512195704817	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483836"
+1512195704820	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483838"
+1512195704821	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483828"
+1512195704822	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483830"
+1512195704823	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483834"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512195706824	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/men/extra-slim-fit-1mx-shirt/pro/00302144/color/BLACK?selectedColor=WHITE"
+1512196264098	geckodriver	INFO	geckodriver 0.19.1
+1512196264102	geckodriver	INFO	Listening on 127.0.0.1:64022
+1512196264301	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/mt/w9kbvqpn6hx2kgsrbxlb0xt40000gn/T/rust_mozprofile.W8H8boqkl1BX"
+1512196265037	Marionette	INFO	Enabled via --marionette
+2017-12-02 01:31:06.151 plugin-container[65287:3216141] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb63f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512196266608	Marionette	INFO	Listening on port 64026
+1512196266845	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512196266911	Marionette	DEBUG	Register listener.js for window 2147483649
+1512196266930	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512196266997	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512196266998	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512196268379	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512196267861, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512196267861, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512196267861, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512196267861, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512196267861, line 27: unreachable code after return statement
+1512196269179	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512196271564	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/exp/search?q=shirts"
+1512196271611	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/exp/search?q=shirts"
+1512196271612	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/exp/search?q=shirts"
+1512196271731	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1512196271731	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1512196271732	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1512196272115	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/mens-clothing/suiting/tuxedo/cat1920015"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512196271866, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512196271866, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512196271866, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512196271866, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512196271866, line 27: unreachable code after return statement
+1512196272750	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/mens-clothing/suiting/tuxedo/cat1920015"
+1512196272809	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/mens-clothing/suiting/tuxedo/cat1920015"
+1512196272889	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/mens-clothing/suiting/tuxedo/cat1920015"
+1512196272891	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/mens-clothing/suiting/tuxedo/cat1920015"
+1512196273054	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483688"
+1512196273054	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483682"
+1512196273056	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483686"
+1512196273571	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/mens-clothing/suiting/suiting-accessories/cat2170002"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512196273193, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512196273193, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512196273193, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512196273193, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512196273193, line 40: unreachable code after return statement
+1512196275183	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/mens-clothing/suiting/suiting-accessories/cat2170002"
+1512196275254	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/mens-clothing/suiting/suiting-accessories/cat2170002"
+1512196275317	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/mens-clothing/suiting/suiting-accessories/cat2170002"
+1512196275318	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/mens-clothing/suiting/suiting-accessories/cat2170002"
+1512196276203	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/men/slim-easy-care-1mx-shirt/pro/00302147/cat700001?selectedColor=BLACK"
+1512196276205	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483699"
+1512196276206	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483693"
+1512196276209	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483697"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+1512196279116	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=BLACK"
+1512196279190	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=BLACK"
+1512196279225	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=BLACK"
+1512196279226	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=BLACK"
+1512196367029	geckodriver	INFO	geckodriver 0.19.1
+1512196367034	geckodriver	INFO	Listening on 127.0.0.1:64583
+1512196367229	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/mt/w9kbvqpn6hx2kgsrbxlb0xt40000gn/T/rust_mozprofile.LHinRhS4xt4j"
+1512196367932	Marionette	INFO	Enabled via --marionette
+2017-12-02 01:32:48.891 plugin-container[65338:3218340] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb73f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512196369337	Marionette	INFO	Listening on port 64589
+1512196369680	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512196369734	Marionette	DEBUG	Register listener.js for window 2147483649
+1512196369746	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512196369859	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512196369859	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512196371002	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512196370535, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512196370535, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512196370535, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512196370535, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512196370535, line 27: unreachable code after return statement
+1512196371759	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512196374763	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/exp/search?q=shirts"
+1512196375065	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/exp/search?q=shirts"
+1512196375066	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/exp/search?q=shirts"
+1512196375269	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1512196375269	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1512196375270	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1512196375271	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1512196375665	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/mens-clothing/suiting/tuxedo/cat1920015"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512196375401, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512196375401, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512196375401, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512196375401, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512196375401, line 40: unreachable code after return statement
+1512196376362	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/mens-clothing/suiting/tuxedo/cat1920015"
+1512196376426	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/mens-clothing/suiting/tuxedo/cat1920015"
+1512196376526	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/mens-clothing/suiting/tuxedo/cat1920015"
+1512196376527	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/mens-clothing/suiting/tuxedo/cat1920015"
+1512196376698	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483690"
+1512196376698	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483684"
+1512196376699	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483688"
+1512196377129	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/mens-clothing/suiting/suiting-accessories/cat2170002"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512196376837, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512196376837, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512196376837, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512196376837, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512196376837, line 40: unreachable code after return statement
+1512196378211	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/mens-clothing/suiting/suiting-accessories/cat2170002"
+1512196378271	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/mens-clothing/suiting/suiting-accessories/cat2170002"
+1512196378324	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/mens-clothing/suiting/suiting-accessories/cat2170002"
+1512196378325	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/mens-clothing/suiting/suiting-accessories/cat2170002"
+1512196379233	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/men/slim-easy-care-1mx-shirt/pro/00302147/cat700001?selectedColor=BLACK"
+1512196379236	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483701"
+1512196379237	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483695"
+1512196379237	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483699"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512196381529	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=BLACK"
+1512196381588	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=BLACK"
+1512196381630	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=BLACK"
+1512196381631	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=BLACK"
+1512196382369	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/men/slim-easy-care-1mx-shirt/pro/00302147/cat700001?selectedColor=WHITE"
+1512196382374	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483715"
+1512196382375	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483717"
+1512196382376	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483705"
+1512196382377	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483707"
+1512196382379	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483709"
+1512196382381	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483713"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512196384397	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=WHITE"
+1512196384468	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=WHITE"
+1512196384498	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=WHITE"
+1512196384499	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=WHITE"
+1512196385200	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/men/slim-easy-care-1mx-shirt/pro/00302147/cat700001?selectedColor=NAVY"
+1512196385203	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483732"
+1512196385204	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483734"
+1512196385204	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483722"
+1512196385204	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483724"
+1512196385205	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483726"
+1512196385207	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483730"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512196386982	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=NAVY"
+1512196387057	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=NAVY"
+1512196387111	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=NAVY"
+1512196387112	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=NAVY"
+1512196388152	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/men/slim-easy-care-1mx-shirt/pro/00302147/cat700001?selectedColor=SKY%20BLUE"
+1512196388155	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483748"
+1512196388155	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483750"
+1512196388156	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483740"
+1512196388156	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483742"
+1512196388157	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483746"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512196390152	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=SKY%20BLUE"
+1512196390204	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=SKY%20BLUE"
+1512196390242	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=SKY%20BLUE"
+1512196390244	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=SKY%20BLUE"
+1512196390976	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/men/slim-easy-care-1mx-shirt/pro/00302147/cat700001?selectedColor=CRIMSON%20RED"
+1512196390982	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483763"
+1512196390985	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483765"
+1512196390986	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483755"
+1512196390986	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483757"
+1512196390987	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483761"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512196392748	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=CRIMSON%20RED"
+1512196392808	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=CRIMSON%20RED"
+1512196392843	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=CRIMSON%20RED"
+1512196392844	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE?selectedColor=CRIMSON%20RED"
+1512196393517	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/men/slim-easy-care-1mx-shirt/pro/00302147/cat700001"
+1512196393522	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483778"
+1512196393522	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483780"
+1512196393523	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483770"
+1512196393523	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483772"
+1512196393524	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483776"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+1512196395655	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE"
+1512196395714	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE"
+1512196395753	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE"
+1512196395753	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/men/slim-easy-care-1mx-shirt/pro/00302147/color/WHITE"
+1512196396435	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/men/extra-slim-fit-1mx-shirt/pro/00302144/cat3450004?selectedColor=BLACK"
+1512196396440	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483792"
+1512196396441	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483794"
+1512196396441	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483784"
+1512196396442	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483786"
+1512196396443	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483790"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512196398162	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/men/extra-slim-fit-1mx-shirt/pro/00302144/color/BLACK?selectedColor=BLACK"
+1512196398220	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/men/extra-slim-fit-1mx-shirt/pro/00302144/color/BLACK?selectedColor=BLACK"
+1512196398260	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/men/extra-slim-fit-1mx-shirt/pro/00302144/color/BLACK?selectedColor=BLACK"
+1512196398260	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/men/extra-slim-fit-1mx-shirt/pro/00302144/color/BLACK?selectedColor=BLACK"
+1512196398939	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/men/extra-slim-fit-1mx-shirt/pro/00302144/cat3450004?selectedColor=WHITE"
+1512196398944	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483807"
+1512196398945	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483809"
+1512196398945	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483799"
+1512196398946	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483801"
+1512196398949	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483805"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+1512196400862	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/men/extra-slim-fit-1mx-shirt/pro/00302144/color/BLACK?selectedColor=WHITE"
+1512196400921	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/men/extra-slim-fit-1mx-shirt/pro/00302144/color/BLACK?selectedColor=WHITE"
+1512196400962	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/men/extra-slim-fit-1mx-shirt/pro/00302144/color/BLACK?selectedColor=WHITE"
+1512196400962	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/men/extra-slim-fit-1mx-shirt/pro/00302144/color/BLACK?selectedColor=WHITE"
+1512196402558	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/men/extra-slim-fit-1mx-shirt/pro/00302144/cat3450004?selectedColor=HORIZON"
+1512196402562	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483821"
+1512196402562	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483823"
+1512196402562	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483813"
+1512196402563	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483815"
+1512196402563	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483819"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+1512196404574	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/men/extra-slim-fit-1mx-shirt/pro/00302144/color/BLACK?selectedColor=HORIZON"
+1512196404640	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/men/extra-slim-fit-1mx-shirt/pro/00302144/color/BLACK?selectedColor=HORIZON"
+1512196404688	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/men/extra-slim-fit-1mx-shirt/pro/00302144/color/BLACK?selectedColor=HORIZON"
+1512196404689	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/men/extra-slim-fit-1mx-shirt/pro/00302144/color/BLACK?selectedColor=HORIZON"
+1512196405439	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/men/extra-slim-fit-1mx-shirt/pro/00302144/cat3450004?selectedColor=BLUE"
+1512196405444	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483835"
+1512196405445	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483837"
+1512196405446	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483827"
+1512196405446	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483829"
+1512196405447	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483833"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+1512196407166	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/men/extra-slim-fit-1mx-shirt/pro/00302144/color/BLACK?selectedColor=BLUE"
+1512196407244	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/men/extra-slim-fit-1mx-shirt/pro/00302144/color/BLACK?selectedColor=BLUE"
+1512196407287	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/men/extra-slim-fit-1mx-shirt/pro/00302144/color/BLACK?selectedColor=BLUE"
+1512196407288	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/men/extra-slim-fit-1mx-shirt/pro/00302144/color/BLACK?selectedColor=BLUE"
+1512196407989	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/men/extra-slim-fit-1mx-shirt/pro/00302144/cat3450004"
+1512196407997	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483850"
+1512196407999	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483852"
+1512196407999	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483842"
+1512196408000	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483844"
+1512196408001	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483848"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+1512196409787	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/men/extra-slim-fit-1mx-shirt/pro/00302144/color/BLACK"
+1512196409836	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/men/extra-slim-fit-1mx-shirt/pro/00302144/color/BLACK"
+1512196410034	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/men/extra-slim-fit-1mx-shirt/pro/00302144/color/BLACK"
+1512196410034	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/men/extra-slim-fit-1mx-shirt/pro/00302144/color/BLACK"
+1512196410870	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/men/extra-slim-fit-easy-care-textured-1mx-shirt/pro/00302151/cat700001?selectedColor=BLUE"
+1512196410872	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483864"
+1512196410872	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483866"
+1512196410873	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483856"
+1512196410875	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483858"
+1512196410875	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483862"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+1512196412564	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/men/extra-slim-fit-easy-care-textured-1mx-shirt/pro/00302151/color/PINK?selectedColor=BLUE"
+1512196412642	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/men/extra-slim-fit-easy-care-textured-1mx-shirt/pro/00302151/color/PINK?selectedColor=BLUE"
+1512196412686	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/men/extra-slim-fit-easy-care-textured-1mx-shirt/pro/00302151/color/PINK?selectedColor=BLUE"
+1512196412688	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/men/extra-slim-fit-easy-care-textured-1mx-shirt/pro/00302151/color/PINK?selectedColor=BLUE"
+1512196413360	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/men/extra-slim-fit-easy-care-textured-1mx-shirt/pro/00302151/cat700001?selectedColor=PINK"
+1512196413364	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483878"
+1512196413364	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483880"
+1512196413365	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483870"
+1512196413366	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483872"
+1512196413366	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483876"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512196415783	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/men/extra-slim-fit-easy-care-textured-1mx-shirt/pro/00302151/color/PINK?selectedColor=PINK"
+1512196415838	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/men/extra-slim-fit-easy-care-textured-1mx-shirt/pro/00302151/color/PINK?selectedColor=PINK"
+1512196415872	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/men/extra-slim-fit-easy-care-textured-1mx-shirt/pro/00302151/color/PINK?selectedColor=PINK"
+1512196415874	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/men/extra-slim-fit-easy-care-textured-1mx-shirt/pro/00302151/color/PINK?selectedColor=PINK"
+1512196416629	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com//clothing/men/extra-slim-fit-easy-care-textured-1mx-shirt/pro/00302151/cat700001?selectedColor=RED"
+1512196416630	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483893"
+1512196416631	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483895"
+1512196416633	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483885"
+1512196416634	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483887"
+1512196416635	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483891"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512196418393	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/men/extra-slim-fit-easy-care-textured-1mx-shirt/pro/00302151/color/PINK?selectedColor=RED"
+1512196418454	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/men/extra-slim-fit-easy-care-textured-1mx-shirt/pro/00302151/color/PINK?selectedColor=RED"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 65338, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1512197389841	geckodriver	INFO	geckodriver 0.19.1
+1512197389849	geckodriver	INFO	Listening on 127.0.0.1:52743
+1512197390038	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/mt/w9kbvqpn6hx2kgsrbxlb0xt40000gn/T/rust_mozprofile.HTxnvtstubm9"
+1512197390849	Marionette	INFO	Enabled via --marionette
+2017-12-02 01:49:52.015 plugin-container[65792:3236070] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb83f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512197392462	Marionette	INFO	Listening on port 52747
+1512197392482	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512197392566	Marionette	DEBUG	Register listener.js for window 2147483649
+1512197392611	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512197392831	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512197392831	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512197394254	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197393732, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197393732, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197393732, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197393732, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197393732, line 27: unreachable code after return statement
+1512197395006	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512197399168	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/exp/search?q=shirts"
+1512197399221	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/exp/search?q=shirts"
+1512197399222	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/exp/search?q=shirts"
+1512197399372	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1512197399373	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1512197399373	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1512197399832	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/mens-clothing/suiting/tuxedo/cat1920015"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197399528, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197399528, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197399528, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197399528, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197399528, line 27: unreachable code after return statement
+1512197400612	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/mens-clothing/suiting/tuxedo/cat1920015"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1512197480499	geckodriver	INFO	geckodriver 0.19.1
+1512197480504	geckodriver	INFO	Listening on 127.0.0.1:53243
+1512197480700	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/mt/w9kbvqpn6hx2kgsrbxlb0xt40000gn/T/rust_mozprofile.Q3I5zUb8J6il"
+1512197481425	Marionette	INFO	Enabled via --marionette
+2017-12-02 01:51:22.411 plugin-container[65836:3238390] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512197482838	Marionette	INFO	Listening on port 53249
+1512197483146	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512197483231	Marionette	DEBUG	Register listener.js for window 2147483649
+1512197483253	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512197483322	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512197483322	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512197484547	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197484002, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197484002, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197484002, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197484002, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197484002, line 27: unreachable code after return statement
+1512197485248	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+1512197487992	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/exp/search?q=shirts"
+1512197488045	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/exp/search?q=shirts"
+1512197488046	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/exp/search?q=shirts"
+1512197488162	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1512197488163	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1512197488163	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1512197488548	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/mens-clothing/suiting/tuxedo/cat1920015"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197488297, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197488297, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197488297, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197488297, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197488297, line 40: unreachable code after return statement
+1512197489176	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/mens-clothing/suiting/tuxedo/cat1920015"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1512197517559	geckodriver	INFO	geckodriver 0.19.1
+1512197517564	geckodriver	INFO	Listening on 127.0.0.1:53531
+1512197517744	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/mt/w9kbvqpn6hx2kgsrbxlb0xt40000gn/T/rust_mozprofile.o5WGiVYScglK"
+1512197518459	Marionette	INFO	Enabled via --marionette
+2017-12-02 01:51:59.472 plugin-container[65861:3239886] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512197519867	Marionette	INFO	Listening on port 53537
+1512197520188	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512197520249	Marionette	DEBUG	Register listener.js for window 2147483649
+1512197520268	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512197520341	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512197520342	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512197521359	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197520948, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197520948, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197520948, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197520948, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197520948, line 40: unreachable code after return statement
+1512197522013	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/"
+1512197523947	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/exp/search?q=shirt"
+1512197523999	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/exp/search?q=shirt"
+1512197523999	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/exp/search?q=shirt"
+1512197524859	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/mens-clothing/suiting/tuxedo/cat1920015"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197524483, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197524483, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197524483, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197524483, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197524483, line 40: unreachable code after return statement
+1512197526342	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/mens-clothing/suiting/tuxedo/cat1920015"
+1512197558561	geckodriver	INFO	geckodriver 0.19.1
+1512197558566	geckodriver	INFO	Listening on 127.0.0.1:53837
+1512197558746	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/mt/w9kbvqpn6hx2kgsrbxlb0xt40000gn/T/rust_mozprofile.7lg2pYSOlmMV"
+1512197559446	Marionette	INFO	Enabled via --marionette
+2017-12-02 01:52:40.438 plugin-container[65885:3241040] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb33f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512197560876	Marionette	INFO	Listening on port 53841
+1512197561188	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512197561242	Marionette	DEBUG	Register listener.js for window 2147483649
+1512197561253	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512197561387	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512197561388	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512197562597	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197562034, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197562034, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197562034, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197562034, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197562034, line 40: unreachable code after return statement
+1512197563313	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+1512197565931	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/exp/search?q=shirt"
+1512197565989	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/exp/search?q=shirt"
+1512197565990	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/exp/search?q=shirt"
+1512197566122	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1512197566123	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1512197566124	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1512197566466	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/mens-clothing/suiting/tuxedo/cat1920015"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197566205, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197566205, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197566205, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197566205, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512197566205, line 27: unreachable code after return statement
+1512197567150	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/mens-clothing/suiting/tuxedo/cat1920015"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1512226182031	geckodriver	INFO	geckodriver 0.19.1
+1512226182038	geckodriver	INFO	Listening on 127.0.0.1:56856
+1512226182236	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/mt/w9kbvqpn6hx2kgsrbxlb0xt40000gn/T/rust_mozprofile.2Q0nR2eBGj14"
+1512226183038	Marionette	INFO	Enabled via --marionette
+2017-12-02 09:49:44.167 plugin-container[66345:3259334] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb63b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512226184672	Marionette	INFO	Listening on port 56860
+1512226184771	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512226184835	Marionette	DEBUG	Register listener.js for window 2147483649
+1512226185008	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512226186526	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512226186527	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512226188763	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512226188421, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512226188421, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512226188421, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512226188421, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512226188421, line 27: unreachable code after return statement
+1512226197927	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/"
+1512226200847	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/exp/search?q=shirts"
+1512226202597	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/exp/search?q=shirts"
+1512226202598	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/exp/search?q=shirts"
+1512226204138	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/mens-clothing/suiting/tuxedo/cat1920015"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512226203881, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512226203881, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512226203881, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512226203881, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512226203881, line 27: unreachable code after return statement
+1512226210734	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/mens-clothing/suiting/tuxedo/cat1920015"
+1512226259048	geckodriver	INFO	geckodriver 0.19.1
+1512226259052	geckodriver	INFO	Listening on 127.0.0.1:57338
+1512226259245	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/mt/w9kbvqpn6hx2kgsrbxlb0xt40000gn/T/rust_mozprofile.XjCG4yeTjpWp"
+1512226259878	Marionette	INFO	Enabled via --marionette
+2017-12-02 09:51:00.860 plugin-container[66389:3261333] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512226261303	Marionette	INFO	Listening on port 57344
+1512226261684	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512226261789	Marionette	DEBUG	Register listener.js for window 2147483649
+1512226261803	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512226262254	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512226262255	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512226263942	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512226263615, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512226263615, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512226263615, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512226263615, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512226263615, line 27: unreachable code after return statement
+1512226266745	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 66389, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1512226367774	geckodriver	INFO	geckodriver 0.19.1
+1512226367778	geckodriver	INFO	Listening on 127.0.0.1:58163
+1512226367967	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/mt/w9kbvqpn6hx2kgsrbxlb0xt40000gn/T/rust_mozprofile.u2NcK8r9wYv6"
+1512226368618	Marionette	INFO	Enabled via --marionette
+2017-12-02 09:52:49.622 plugin-container[66453:3266282] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512226370026	Marionette	INFO	Listening on port 58167
+1512226370406	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512226370455	Marionette	DEBUG	Register listener.js for window 2147483649
+1512226370474	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512226370908	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512226370908	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512226372069	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512226371513, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512226371513, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512226371513, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512226371513, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512226371513, line 27: unreachable code after return statement
+1512226374704	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1512226428076	geckodriver	INFO	geckodriver 0.19.1
+1512226428080	geckodriver	INFO	Listening on 127.0.0.1:58620
+1512226428275	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/mt/w9kbvqpn6hx2kgsrbxlb0xt40000gn/T/rust_mozprofile.qpvDwJFjGLwe"
+1512226428988	Marionette	INFO	Enabled via --marionette
+2017-12-02 09:53:50.032 plugin-container[66488:3270623] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb643, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512226430415	Marionette	INFO	Listening on port 58624
+1512226430724	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512226430785	Marionette	DEBUG	Register listener.js for window 2147483649
+1512226430801	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512226430940	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512226430941	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512226432385	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512226431971, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512226431971, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512226431971, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512226431971, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512226431971, line 27: unreachable code after return statement
+1512226436429	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 66488, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1512226711791	geckodriver	INFO	geckodriver 0.19.1
+1512226711797	geckodriver	INFO	Listening on 127.0.0.1:60160
+1512226711996	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/mt/w9kbvqpn6hx2kgsrbxlb0xt40000gn/T/rust_mozprofile.zUcNagOWmGZs"
+1512226712792	Marionette	INFO	Enabled via --marionette
+2017-12-02 09:58:33.890 plugin-container[66627:3286363] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xb73f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1512226714329	Marionette	INFO	Listening on port 60166
+1512226714436	Marionette	WARN	TLS certificate errors will be ignored for this session
+1512226714491	Marionette	DEBUG	Register listener.js for window 2147483649
+1512226714610	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1512226714859	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1512226714859	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1512226716370	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512226715972, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512226715972, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512226715972, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512226715972, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512226715972, line 40: unreachable code after return statement
+1512226719415	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/"
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 27: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js#site=ACs0xLl, line 40: unreachable code after return statement
+1512226729863	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.express.com/exp/search?q=shirts"
+1512226730027	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.express.com/exp/search?q=shirts"
+1512226730028	Marionette	DEBUG	Received DOM event "unload" for "https://www.express.com/exp/search?q=shirts"
+1512226730154	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1512226730155	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483674"
+1512226730157	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1512226730520	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.express.com/mens-clothing/suiting/tuxedo/cat1920015"
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512226730322, line 22: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512226730322, line 28: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512226730322, line 34: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512226730322, line 40: unreachable code after return statement
+JavaScript warning: https://s.btstatic.com/tag.js?_=1512226730322, line 27: unreachable code after return statement
+1512226732037	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.express.com/mens-clothing/suiting/tuxedo/cat1920015"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 66627, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
