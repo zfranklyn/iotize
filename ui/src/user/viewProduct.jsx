@@ -184,7 +184,7 @@ const FLOATING_BUTTON_STYLE = {
   right: '10px',
   border: '1px solid black',
   borderRadius: '4em',
-  backgroundColor: 'gray',
+  backgroundColor: 'gray'
 }
 
 export default ViewProduct;

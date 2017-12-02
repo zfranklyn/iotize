@@ -9,6 +9,7 @@ import {
     Tab,
 } from 'react-bootstrap';
 import faker from 'faker';
+import { PrivacyPolicy } from './privacy.jsx';
 
 class SettingsComponent extends Component {
 
@@ -72,19 +73,17 @@ class SettingsComponent extends Component {
                             value={this.state.userData.email}
                             placeholder="Enter Email"
                         />                    
-                        </FormGroup>                    
+                        </FormGroup>
+                        <Button bsStyle="primary" bsSize="large">Save Changes</Button>                    
                 </Tab>
                 <Tab eventKey={2} title="Scan History">
                     Scan History
                 </Tab>
                 <Tab eventKey={3} title="Privacy">
-                    Privacy
+                    {PrivacyPolicy}
                 </Tab>
             </Tabs>
             </Modal.Body>
-            <Modal.Footer>
-            <Button bsStyle="primary" bsSize="large" block>Save Changes</Button>
-            </Modal.Footer>
 
         </Modal>
           );
@@ -115,7 +114,7 @@ class SettingsComponent extends Component {
                         placeholder="Enter Email"
                     />                    
                     </FormGroup>
-                    <Button bsStyle="primary" bsSize="large" block>Create My Account</Button>
+                    <Button bsStyle="primary" bsSize="large">Create My Account</Button>
                 </form>                    
                 </Modal.Body>
 
