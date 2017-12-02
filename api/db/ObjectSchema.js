@@ -2,7 +2,7 @@
 
 const mongoose = require('mongoose');
 
-const ObjectSchema = mongoose.Schema({
+const objectSchema = mongoose.Schema({
     id: Number,
     text: String,
     description: String,
@@ -10,6 +10,6 @@ const ObjectSchema = mongoose.Schema({
     creator: String,
 })
 
-const Object = mongoose.model('yhack2017', ObjectSchema);
+const ObjectSchema = mongoose.model('yhack2017', objectSchema);
 
-module.exports = Object;
+module.exports = ObjectSchema;

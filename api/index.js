@@ -8,6 +8,8 @@ const app = express();
 const apiRouter = require('./routes/apiRouter');
 const uuid = require('uuid');
 
+const db = require('./db/index');
+
 //middleware
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
@@ -35,6 +37,12 @@ app.get('/*', (req, res) => {
     res.sendFile(path.join(__dirname, '../ui/build/index.html'));
 });
 
-app.listen(8080, () => {
-    console.log('Server listening on 8080');
+
+db.on('error', console.error.bind(console, 'connection error:'));
+db.once('open', function(){
+    console.log("Connected to database");
+    app.listen(8080, () => {
+        console.log('Server listening on 8080');
+    });    
 });
+
