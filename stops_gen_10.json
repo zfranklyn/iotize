@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Yale Red Line",
+    "actions": {
+      "purchase": {
+        "enabled": 0
+      },
+      "maintenance": {
+        "maintenanceMessage": "",
+        "enabled": 1,
+        "statusBroken": 0
+      },
+      "custom": []
+    },
+    "details": {
+      "customAlerts": [],
+      "imageUrls": [
+        "https://your.yale.edu/sites/default/files/files/shuttlebasemap811.JPG"
+      ],
+      "description": "Arrival in 1 min"
+    }
+  },
+  {
+    "name": "Yale Red Line",
+    "actions": {
+      "purchase": {
+        "enabled": 0
+      },
+      "maintenance": {
+        "maintenanceMessage": "",
+        "enabled": 1,
+        "statusBroken": 0
+      },
+      "custom": []
+    },
+    "details": {
+      "customAlerts": [],
+      "imageUrls": [
+        "https://your.yale.edu/sites/default/files/files/shuttlebasemap811.JPG"
+      ],
+      "description": "Arrival in 2 min"
+    }
+  },
+  {
+    "name": "Yale Blue Line",
+    "actions": {
+      "purchase": {
+        "enabled": 0
+      },
+      "maintenance": {
+        "maintenanceMessage": "",
+        "enabled": 1,
+        "statusBroken": 0
+      },
+      "custom": []
+    },
+    "details": {
+      "customAlerts": [],
+      "imageUrls": [
+        "https://your.yale.edu/sites/default/files/files/shuttlebasemap811.JPG"
+      ],
+      "description": "Arrival in 3 min"
+    }
+  },
+  {
+    "name": "Yale Red Line",
+    "actions": {
+      "purchase": {
+        "enabled": 0
+      },
+      "maintenance": {
+        "maintenanceMessage": "",
+        "enabled": 1,
+        "statusBroken": 0
+      },
+      "custom": []
+    },
+    "details": {
+      "customAlerts": [],
+      "imageUrls": [
+        "https://your.yale.edu/sites/default/files/files/shuttlebasemap811.JPG"
+      ],
+      "description": "Arrival in 4 min"
+    }
+  },
+  {
+    "name": "Yale Blue Line",
+    "actions": {
+      "purchase": {
+        "enabled": 0
+      },
+      "maintenance": {
+        "maintenanceMessage": "",
+        "enabled": 1,
+        "statusBroken": 1
+      },
+      "custom": []
+    },
+    "details": {
+      "customAlerts": [],
+      "imageUrls": [
+        "https://your.yale.edu/sites/default/files/files/shuttlebasemap811.JPG"
+      ],
+      "description": "Arrival in 5 min"
+    }
+  },
+  {
+    "name": "Yale Red Line",
+    "actions": {
+      "purchase": {
+        "enabled": 0
+      },
+      "maintenance": {
+        "maintenanceMessage": "",
+        "enabled": 1,
+        "statusBroken": 0
+      },
+      "custom": []
+    },
+    "details": {
+      "customAlerts": [],
+      "imageUrls": [
+        "https://your.yale.edu/sites/default/files/files/shuttlebasemap811.JPG"
+      ],
+      "description": "Arrival in 6 min"
+    }
+  },
+  {
+    "name": "Yale Blue Line",
+    "actions": {
+      "purchase": {
+        "enabled": 0
+      },
+      "maintenance": {
+        "maintenanceMessage": "",
+        "enabled": 1,
+        "statusBroken": 0
+      },
+      "custom": []
+    },
+    "details": {
+      "customAlerts": [],
+      "imageUrls": [
+        "https://your.yale.edu/sites/default/files/files/shuttlebasemap811.JPG"
+      ],
+      "description": "Arrival in 7 min"
+    }
+  },
+  {
+    "name": "Yale Red Line",
+    "actions": {
+      "purchase": {
+        "enabled": 0
+      },
+      "maintenance": {
+        "maintenanceMessage": "",
+        "enabled": 1,
+        "statusBroken": 0
+      },
+      "custom": []
+    },
+    "details": {
+      "customAlerts": [],
+      "imageUrls": [
+        "https://your.yale.edu/sites/default/files/files/shuttlebasemap811.JPG"
+      ],
+      "description": "Arrival in 8 min"
+    }
+  },
+  {
+    "name": "Yale Red Line",
+    "actions": {
+      "purchase": {
+        "enabled": 0
+      },
+      "maintenance": {
+        "maintenanceMessage": "",
+        "enabled": 1,
+        "statusBroken": 0
+      },
+      "custom": []
+    },
+    "details": {
+      "customAlerts": [],
+      "imageUrls": [
+        "https://your.yale.edu/sites/default/files/files/shuttlebasemap811.JPG"
+      ],
+      "description": "Arrival in 9 min"
+    }
+  },
+  {
+    "name": "Yale Blue Line",
+    "actions": {
+      "purchase": {
+        "enabled": 0
+      },
+      "maintenance": {
+        "maintenanceMessage": "",
+        "enabled": 1,
+        "statusBroken": 0
+      },
+      "custom": []
+    },
+    "details": {
+      "customAlerts": [],
+      "imageUrls": [
+        "https://your.yale.edu/sites/default/files/files/shuttlebasemap811.JPG"
+      ],
+      "description": "Arrival in 10 min"
+    }
+  }
+]
