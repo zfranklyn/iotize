@@ -1,7 +1,5 @@
 import React, { Component } from 'react';
-import './App.css';
 import {
-    Well,
     Panel,
 } from 'react-bootstrap';
 

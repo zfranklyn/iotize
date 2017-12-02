@@ -1,16 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
-import {
-  Grid,
-  Row,
-  Col,
-  Image,
-  Tabs,
-  Tab,
-  Button,
-} from 'react-bootstrap';
-import viewProduct from './viewProduct';
-import addProduct from './addProduct'
+import viewProduct from './user/viewProduct';
+import addProduct from './user/addProduct'
 
 import {
   BrowserRouter as Router,
@@ -18,25 +9,23 @@ import {
   Link,
 } from 'react-router-dom';
 
-import CommentComponent from './CommentComponent';
-
 class App extends Component {
   render() {
     return (
       <Router>
         <div>
-          <div className="avaContainer">
-            <Route path="/viewproduct/:productId" component={viewProduct}/>
-            <Route path="/addproduct" component={addProduct}/>
+          <div>
+            {/* <Route path="/" component={<div>Landing Page Placeholder</div>}/> */}
+            <Route path="/u/viewproduct/:productId" component={viewProduct}/>
+            {/* <Route path="/u/editProduct/:productId" component={<div>Edit Product</div>}/> */}
+            {/* <Route path="/u/settings" component={<div>Settings</div>}/> */}
+            <Route path="/u/addproduct" component={addProduct}/>
+            {/* <Route path="/v" component={<div>Vendor Page</div>}/> */}
           </div>
         </div>
       </Router>
     )
   }  
 }
-
-const testComponent = (
-  <div>HelloWorld</div>
-);
 
 export default App;
