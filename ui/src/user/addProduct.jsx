@@ -5,10 +5,6 @@ import {
 
 class AddProduct extends Component {
 
-  constructor(props) {
-    super(props);
-  }
-
   render() {
     return (
         <Panel>
