@@ -1,7 +1,7 @@
 const express = require('express')
 const router = express.Router();
-const UserModel = require('./db/UserSchema');
-const ObjectSchema = require('./db/ObjectSchema');
+const UserModel = require('../db/UserSchema');
+// const ObjectSchema = require('../db/ObjectSchema');
 
 /*
 /api/object/:id
@@ -24,10 +24,10 @@ router.get('/objects', (req, res) => {
 // Gets data for an object
 router.get('/object/:objectId', (req, res) => {
   const { objectId } = req.params;
-  /*
+  
   ObjectSchema.find({id: objectId})
   .then((found) => res.json(found));
-  */
+  
 });
 
 // Creates a new object

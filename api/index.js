@@ -43,6 +43,7 @@ db.once('open', function(){
     console.log("Connected to database");
     app.listen(8080, () => {
         console.log('Server listening on 8080');
+        
     });    
 });
 
