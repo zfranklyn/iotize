@@ -16,9 +16,16 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(cookieParser());
 
 app.use((req, res, next) => {
+    res.header('Access-Control-Allow-Origin', '*');
+    res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
+    res.header('Access-Control-Allow-Methods', 'PUT, POST, GET, DELETE, OPTIONS');
+    next();
+});
+
+app.use((req, res, next) => {
     const cookies = req.cookies;
     if (cookies && cookies.yhack) {
-        console.log(`Cookie already exists:`, cookies.yhack);
+        // console.log(`Cookie already exists:`, cookies.yhack);
     } else {
         const randomHash = uuid();
         res.cookie('yhack', randomHash, { maxAge: 90000000000, httpOnly: false});
