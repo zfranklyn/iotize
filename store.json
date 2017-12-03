@@ -1,0 +1,67 @@
+[
+  {
+    "name": "ALEX Drawer unit, white",
+    "details": {
+      "imageUrls": ["http://www.ikea.com/us/en/images/products/alex-drawer-unit-white__0087723_PE217289_S4.JPG"],
+      "description": "79.00\nA clean look that’s easy to like and mix with other styles, either supporting a desk or standing alone. The back is finished so you can place it in the middle of the room – all sides are just as beautiful.",
+      "customAlerts": []
+    },
+    "actions": {
+      "maintenance": {
+        "enabled": 0,
+        "statusBroken": 0,
+        "maintenanceMessage": ""
+      },
+      "purchase": {
+        "enabled": 1
+      },
+      "custom": [
+        {
+          "actionName": "View Schedule PDF",
+          "actionType": "redirect",
+          "api": "www.ikea.com"
+        }
+      ]
+    }
+  },
+    {
+    "name": "Extra Slim Fit 1MX Shirt",
+    "details": {
+      "imageUrls": ["https://images.express.com/is/image/expressfashion/20_030_6564_098_11?cache=on&wid=960&fmt=jpeg&qlt=85,1&resmode=sharp2&op_usm=1,1,5,0&defaultImage=Photo-Coming-Soon"],
+      "description": "59.90\nMore tailored in the waist, chest and shoulders, this shirt is easy-to-care for and made from quick-drying stretch cotton for all-day comfort. Clean styling details include a French placket, no chest pocket and adjustable two-button cuffs.",
+      "customAlerts": []
+    },
+    "actions": {
+      "maintenance": {
+        "enabled": 0,
+        "statusBroken": 0,
+        "maintenanceMessage": ""
+      },
+      "purchase": {
+        "enabled": 1
+      },
+      "custom": [
+      ]
+    }
+  },
+    {
+    "name": "Dark Mid Rise Stretch Jean Leggings",
+    "details": {
+      "imageUrls": ["https://images.express.com/is/image/expressfashion/91_701_7071_020_f01?cache=on&wid=960&fmt=jpeg&qlt=85,1&resmode=sharp2&op_usm=1,1,5,0&defaultImage=Photo-Coming-Soon"],
+      "description": "47.94\nA deep colored denim is one of our fave statement makers. These jean leggings are a great companion for a comfy crew neck tee or sweater.",
+      "customAlerts": []
+    },
+    "actions": {
+      "maintenance": {
+        "enabled": 0,
+        "statusBroken": 0,
+        "maintenanceMessage": ""
+      },
+      "purchase": {
+        "enabled": 1
+      },
+      "custom": [
+      ]
+    }
+  }
+]

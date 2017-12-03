@@ -8,6 +8,8 @@ const app = express();
 const apiRouter = require('./routes/apiRouter');
 const uuid = require('uuid');
 
+const db = require('./db/index');
+
 //middleware
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
@@ -15,26 +17,31 @@ app.use(cookieParser());
 
 app.use((req, res, next) => {
     const cookies = req.cookies;
-    console.log(cookies);
-    if (!cookies || !cookies.yhack) {
+    if (cookies && cookies.yhack) {
+        console.log(`Cookie already exists:`, cookies.yhack);
+    } else {
         const randomHash = uuid();
         res.cookie('yhack', randomHash, { maxAge: 90000000000, httpOnly: false});
-        console.log(`Created cookie: ${randomHash}`);
-    } else {
-        console.log(`Cookie already exists:`, cookies.yhack);
+        // console.log(`Created cookie: ${randomHash}`);
     }
     next();
 })
 
 //routes
 app.use('/api', apiRouter);
-app.use(express.static(path.join(__dirname, '../ui/build')));
 
+app.use('/', express.static(path.join(__dirname, '../ui/build')));
 // Send index.html for any other requests
-app.get('*', (req, res) => {
+app.get('/*', (req, res) => {
     res.sendFile(path.join(__dirname, '../ui/build/index.html'));
 });
 
-app.listen(8080, () => {
-    console.log('Server listening on 8080');
+db.on('error', console.error.bind(console, 'connection error:'));
+db.once('open', function(){
+    console.log("Connected to database");
+    app.listen(8080, () => {
+        console.log('Server listening on 8080');
+        
+    });    
 });
+

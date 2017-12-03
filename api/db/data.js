@@ -1,0 +1,65 @@
+module.exports = [
+  {
+    "name": "Marcy 150-lb. Multifunctional Home Gym Station",
+    "details": {
+      "imageUrls": [
+        "https://images-na.ssl-images-amazon.com/images/I/71WEVkUJwoL._SL1500_.jpg"
+      ],
+      "description": "This gear comes with a 150-pound selectorized weight stack that can be customized according to your skill level to avoid the stresses of loading and unloading weight plates with a safety lock that prevents unauthorized use of equipment",
+      "customAlerts": []
+    },
+    "actions": {
+      "maintenance": {
+        "enabled": 1,
+        "statusBroken": 0,
+        "maintenanceMessage": ""
+      },
+      "purchase": {
+        "enabled": 0
+      },
+      "custom": []
+    }
+  },
+  {
+    "name": "PharMeDoc Ab Roller Wheel",
+    "details": {
+      "imageUrls": [
+        "https://images-na.ssl-images-amazon.com/images/I/81NydDXLFAL._SL1500_.jpg"
+      ],
+      "description": "The PharMeDoc Abdominal Wheel Ab Roller wheel helps you get a complete ab workout to help you build stronger and more chiseled six pack abs, obliques, hip flexors, legs, shoulders, chest, and triceps, making this a must-have piece of home exercise equipment for abdominal muscles.",
+      "customAlerts": []
+    },
+    "actions": {
+      "maintenance": {
+        "enabled": 1,
+        "statusBroken": 1,
+        "maintenanceMessage": "Need to fix"
+      },
+      "purchase": {
+        "enabled": 0
+      },
+      "custom": []
+    }
+  },
+  {
+    "name": "Marcy Flat Utility Weight Bench",
+    "details": {
+      "imageUrls": [
+        "https://images-na.ssl-images-amazon.com/images/I/61uLwarQ%2BiL._SL1500_.jpg"
+      ],
+      "description": "This gear comes with a 150-pound selectorized weight stack that can be customized according to your skill level to avoid the stresses of loading and unloading weight plates with a safety lock that prevents unauthorized use of equipment",
+      "customAlerts": []
+    },
+    "actions": {
+      "maintenance": {
+        "enabled": 1,
+        "statusBroken": 0,
+        "maintenanceMessage": ""
+      },
+      "purchase": {
+        "enabled": 0
+      },
+      "custom": []
+    }
+  }
+];
