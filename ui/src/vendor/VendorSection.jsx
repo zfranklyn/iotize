@@ -127,7 +127,7 @@ const generateStudies = (n) => {
         details: {
           imageUrls: ['/bench.jpeg'],
           description: faker.lorem.paragraphs(2),
-          customAlerts: []
+          customAlert: '',
         },
         actions: {
           maintenance: {

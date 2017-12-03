@@ -33,7 +33,7 @@ class ObjectDetailsModal extends Component {
           details: {
             imageUrls: ['/bench.jpeg'],
             description: faker.lorem.paragraphs(2),
-            customAlerts: []
+            customAlert: '',
           },
           actions: {
             maintenance: {
@@ -79,11 +79,17 @@ class ObjectDetailsModal extends Component {
                       <FormControl
                         componentClass="textarea"
                         placeholder="textarea"
-                        value={this.state.object.description}
+                        value={this.state.object.details.description}
                         onChange={() => {}}
-                        />
+                      />
                     </FormGroup>
-
+                    <FormGroup>
+                      <ControlLabel>Alert</ControlLabel>
+                      <FormControl
+                        value={this.state.object.details.customAlert}
+                        onChange={() => {}}
+                      />
+                    </FormGroup>
                   </form>                
                 </Tab>
                 <Tab eventKey={2} title="Scan History">
