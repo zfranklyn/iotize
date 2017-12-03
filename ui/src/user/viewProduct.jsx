@@ -41,7 +41,6 @@ class ViewProduct extends Component {
       axios.get(`${this.urlRoot}/api/object/${this.props.match.params.productId}`)
       .then(d => d.data)
       .then(foundObject => {
-        console.log(foundObject);
         this.setState({
           loaded: true,
           object: foundObject,
