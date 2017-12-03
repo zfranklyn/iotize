@@ -11,6 +11,6 @@ const userSchema = mongoose.Schema({
     metadata: Object,
 })
 
-const UserSchema = mongoose.model('yhack2017', userSchema);
 
-module.exports = UserSchema;
+
+module.exports = mongoose.model('users', userSchema);

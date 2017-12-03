@@ -17,13 +17,12 @@ app.use(cookieParser());
 
 app.use((req, res, next) => {
     const cookies = req.cookies;
-    console.log(cookies);
     if (cookies && cookies.yhack) {
         console.log(`Cookie already exists:`, cookies.yhack);
     } else {
         const randomHash = uuid();
         res.cookie('yhack', randomHash, { maxAge: 90000000000, httpOnly: false});
-        console.log(`Created cookie: ${randomHash}`);
+        // console.log(`Created cookie: ${randomHash}`);
     }
     next();
 })
@@ -36,7 +35,6 @@ app.use('/', express.static(path.join(__dirname, '../ui/build')));
 app.get('/*', (req, res) => {
     res.sendFile(path.join(__dirname, '../ui/build/index.html'));
 });
-
 
 db.on('error', console.error.bind(console, 'connection error:'));
 db.once('open', function(){

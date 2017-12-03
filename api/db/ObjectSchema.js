@@ -3,13 +3,26 @@
 const mongoose = require('mongoose');
 
 const objectSchema = mongoose.Schema({
-    id: Number,
-    text: String,
-    description: String,
-    owner: String,
-    creator: String,
+    name: String,
+    details: {
+        imageURLs: [],
+        description: String,
+        customAlert: String,
+    },
+    actions: {
+        maintenance: {
+            enabled: Boolean,
+            statusBroken: Boolean,
+            maintenanceMessage: String,
+        },
+        purchase: {
+            enabled: Boolean,
+        },
+        custom: [],
+    },
+    comments: [],
 })
 
-const ObjectSchema = mongoose.model('yhack2017', objectSchema);
 
-module.exports = ObjectSchema;
+
+module.exports = mongoose.model('objects', objectSchema);
