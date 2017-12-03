@@ -1,10 +1,10 @@
 {
-  "name": "api",
+  "name": "iotize",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "node index.js"
+    "start": "node ./api/index.js"
   },
   "dependencies": {
     "aws-sdk": "^2.162.0",
