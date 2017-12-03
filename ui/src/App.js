@@ -17,11 +17,11 @@ class App extends Component {
         <div>
           <div>
             {/* <Route path="/" component={<div>Landing Page Placeholder</div>}/> */}
+            <Route path="/" component={VendorSection}/>
             <Route path="/u/viewproduct/:productId" component={viewProduct}/>
             {/* <Route path="/u/editProduct/:productId" component={<div>Edit Product</div>}/> */}
             {/* <Route path="/u/settings" component={<div>Settings</div>}/> */}
             <Route path="/u/addproduct" component={addProduct}/>
-            <Route path="/v" component={VendorSection}/>
           </div>
         </div>
       </Router>

@@ -21,6 +21,32 @@ module.exports =
   custom: [ ]
   }
   },
+
+  {
+    name: "Kenmore 41303 4.5 cu. ft. Front Load Washer in Silver",
+    details: {
+    imageURLs: [
+    "https://images-na.ssl-images-amazon.com/images/I/815Cw7HUzmL._SL1500_.jpg"
+    ],
+    description: "Steam Treat option virtually eliminates the need to pretreat and tackles common stains with the deep cleaning power of steam. Accela Wash Technology helps make your laundry day go by in a flash by cleaning your full-sized loads in 29 minutes",
+    customAlerts: [ ]
+    },
+    actions: {
+    maintenance: {
+    enabled: 1,
+    statusBroken: 0,
+    maintenanceMessage: ""
+    },
+    purchase: {
+    enabled: 0
+    },
+    custom: [ ]
+    },
+    comments: [{comment: "The machine wrinkles everything no matter the setting . Repair person says there isn't a fix for it. Kenmore has always been the very best . However I am returning this one and buying a different brand. It is ruining everything ."}]
+    },
+
+
+
   {
   name: "PharMeDoc Ab Roller Wheel",
   details: {
