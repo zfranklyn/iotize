@@ -5,6 +5,7 @@ import {
     Image,
     Tabs,
     Tab,
+    Alert,
     Button,
   } from 'react-bootstrap';
   
@@ -15,75 +16,38 @@ import faker from 'faker';
 
 import SettingsComponent from './settingsComponent';
 import NewCommentComponent from './NewCommentComponent';
+import axios from 'axios';
 
 class ViewProduct extends Component {
 
     constructor(props) {
         super(props);
         this.state = {
+          loaded: false,
           viewState: {
-            loaded: false,
-            userId: '',
+            showModal: false,
             accountCreated: false,
-            showModal: true,
-            showCommentModal: true,
+            showCommentModal: false,
           },
-          id: '',
-          name: '',
-          details: {
-            imageUrls: [],
-            description: '',
-            customAlerts: []
-          },
-          actions: {
-            maintenance: {
-              enabled: false,
-              statusBroken: false,
-              maintenanceMessage: '',
-            },
-            purchase: {
-              enabled: true,
-            },
-            custom: [],
-          },
-          comments: [],
+          object: {},
         }
     }
+
+    // urlRoot = 'https://cc6c85a4.ngrok.io';
+    urlRoot = '';
+    // urlRoot = 'http://localhost:8080'
     
-    componentWillMount() {
-      this.setState({
-        viewState: {
+    componentDidMount() {
+      axios.get(`${this.urlRoot}/api/object/${this.props.match.params.productId}`)
+      .then(d => d.data)
+      .then(foundObject => {
+        console.log(foundObject);
+        this.setState({
           loaded: true,
-          userId: 2,
-          accountCreated: false,
-          showModal: false,
-          showCommentModal: false,
-        },
-        
-        id: 1,
-        name: 'Bench Press',
-        details: {
-          imageUrls: ['/bench.jpeg'],
-          description: faker.lorem.paragraphs(2),
-          customAlerts: []
-        },
-        actions: {
-          maintenance: {
-            enabled: true,
-            statusBroken: false,
-            maintenanceMessage: '',
-          },
-          purchase: {
-            enabled: true,
-          },
-          custom: [],
-        },
-        comments: [
-          {name: faker.name.firstName(), comment: faker.lorem.sentences(3)},
-          {name: faker.name.firstName(), comment: faker.lorem.sentences(3)},
-          {name: faker.name.firstName(), comment: faker.lorem.sentences(3)},
-        ]
-      });
+          object: foundObject,
+        });
+      })
+      .catch(console.log);
     }
 
     closeModal = () => {
@@ -115,100 +79,125 @@ class ViewProduct extends Component {
     }
 
     submitComment = (commentText) => {
-      console.log(commentText);
-      // post
-      this.closeModal();
+      axios.post(`${this.urlRoot}/api/object/${this.props.match.params.productId}/comment`, {
+        commentBody: commentText,
+      })
+      .then(() => {
+        this.closeModal();
+      })
+      .catch(console.log);
+      
     }
 
     render() {
 
-      let MaintenanceButton = null;
-      let PurchaseButton = null;
+      if (this.state.loaded && this.state.object) {
 
-      if (this.state.actions.maintenance.enabled) {
-        MaintenanceButton = (
-          <Button bsStyle="primary" bsSize="small" block>Report Broken</Button>
-        );
-      }
+        console.log(this.state);
+        let MaintenanceButton = null;
+        let PurchaseButton = null;
 
-      if (this.state.actions.purchase.enabled) {
-        PurchaseButton = (
-          <Button bsStyle="primary" bsSize="small" block>Purchase this Item</Button>
-        );
-      }        
+        if (this.state.object.actions.maintenance.enabled) {
+          MaintenanceButton = (
+            <Button bsStyle="primary" bsSize="small" block>Report Broken</Button>
+          );
+        }
 
-      if (this.state.viewState.loaded) {
-        return (
-          <div className="container">
+        if (this.state.object.actions.purchase.enabled) {
+          PurchaseButton = (
+            <Button bsStyle="primary" bsSize="small" block>Purchase this Item</Button>
+          );
+        }        
 
-            <div className="floating-button"
-              style={FLOATING_BUTTON_STYLE}
-              onClick={this.openModal}
-            />
+        if (this.state.loaded) {
+          return (
+            <div className="container">
 
-            <Image className="main-img" src={this.state.details.imageUrls[0]} responsive />
+              <div className="floating-button"
+                style={FLOATING_BUTTON_STYLE}
+                onClick={this.openModal}
+              />
 
-            <Grid>
-              <Row>
-                <Col xs={12}>
-                <Tabs defaultActiveKey={1} id="nav-tab">
-                  <Tab eventKey={1} title="Overview">
-                    <h3>
-                      {this.state.name}
-                    </h3>
-                    <p>
-                      {this.state.details.description}
-                    </p>
-                    {MaintenanceButton}
-                    {PurchaseButton}
-                  </Tab>
-                  <Tab eventKey={2} title="Comments">
-                    {this.state.comments.map((commentObject, index) => {
-                      return (
-                        <CommentComponent
-                          key={index}
-                          name={commentObject.name}
-                          comment={commentObject.comment}
-                        />
-                      );
-                    })}
+              {
+                this.state.object.details.imageURLs.length ? 
+                  <Image className="main-img" src={this.state.object.details.imageURLs[0]} responsive />
+                  : null
+              }
+              
 
-                    <div style={{position: 'fixed', bottom: 0, left: 0, width: '100%'}}>
-                      <Button
-                        bsStyle="primary"
-                        bsSize="large"
-                        block
-                        onClick={this.openCommentModal}
-                      >
-                      Comment
-                      </Button>
-                    </div>
-                  </Tab>
-                </Tabs>
-                </Col>
-              </Row>
-            </Grid>
+              <Grid>
+                <Row>
+                  <Col xs={12}>
+                  <Tabs defaultActiveKey={1} id="nav-tab">
+                    <Tab eventKey={1} title="Overview">
+                      <h3>
+                        {this.state.object.name}
+                      </h3>
+                      {
+                        !!this.state.object.actions.maintenance.maintenanceMessage ? 
+                          <Alert bsStyle="warning">
+                            {this.state.object.actions.maintenance.maintenanceMessage}
+                          </Alert>
+                        : null
+                      }
+                      <p>
+                        {this.state.object.details.description}
+                      </p>
+                      {MaintenanceButton}
+                      {PurchaseButton}
+                    </Tab>
+                    <Tab eventKey={2} title="Comments">
+                      {this.state.object.comments.map((commentObject, index) => {
+                        return (
+                          <CommentComponent
+                            key={index}
+                            name={commentObject.name}
+                            comment={commentObject.comment}
+                          />
+                        );
+                      })}
 
-            <SettingsComponent
-              showModal={this.state.viewState.showModal}
-              closeModal={this.closeModal}
-              accountCreated={this.state.viewState.accountCreated}
-            />
-            <NewCommentComponent
-              showCommentModal={this.state.viewState.showCommentModal}
-              //closeModal={this.closeModal}
-              submitComment={this.submitComment}
-            />
-          </div>
+                      <div style={{position: 'fixed', bottom: 0, left: 0, width: '100%'}}>
+                        <Button
+                          bsStyle="primary"
+                          bsSize="large"
+                          block
+                          onClick={this.openCommentModal}
+                        >
+                        Comment
+                        </Button>
+                      </div>
+                    </Tab>
+                  </Tabs>
+                  </Col>
+                </Row>
+              </Grid>
 
-        );
+              <SettingsComponent
+                showModal={this.state.viewState.showModal}
+                closeModal={this.closeModal}
+                accountCreated={this.state.viewState.accountCreated}
+              />
+              <NewCommentComponent
+                showCommentModal={this.state.viewState.showCommentModal}
+                closeModal={this.closeModal}
+                submitComment={this.submitComment}
+              />
+            </div>
+
+          );
+        } else {
+          return (
+            <div>Loading</div>
+          );
+        }
+
       } else {
         return (
           <div>Loading</div>
         );
-      }
-
     }
+  }
 }
 
 const FIXEDBUTTON = {

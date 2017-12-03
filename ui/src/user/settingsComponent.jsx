@@ -52,7 +52,7 @@ class SettingsComponent extends Component {
                 <Modal.Title>Settings</Modal.Title>
             </Modal.Header>
             <Modal.Body>
-            <Tabs defaultActiveKey={1}>
+            <Tabs id="settings-tabs" defaultActiveKey={1}>
                 <Tab eventKey={1} title="Your Data">
                     <FormGroup>
                         <ControlLabel>First Name</ControlLabel>
@@ -60,18 +60,21 @@ class SettingsComponent extends Component {
                             type="text"
                             value={this.state.userData.firstName}
                             placeholder="Enter First Name"
+                            onChange={()=>{}}
                         />
                         <ControlLabel>Last Name</ControlLabel>
                         <FormControl
                             type="text"
                             value={this.state.userData.lastName}
                             placeholder="Enter Last Name"
+                            onChange={()=>{}}
                         />
                         <ControlLabel>Email</ControlLabel>
                         <FormControl
                             type="text"
                             value={this.state.userData.email}
                             placeholder="Enter Email"
+                            onChange={()=>{}}
                         />                    
                         </FormGroup>
                         <Button style={FIXEDBUTTON} bsStyle="primary" bsSize="large">Save Changes</Button>                    

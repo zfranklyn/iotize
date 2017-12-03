@@ -4,11 +4,12 @@
 }
 
 .object-img {
+  width: 100%;
 }
 
 .object-tile {
-  width: 280px;
-  height: 350px;
+  width: 250px;
+  height: 400px;
   display: inline-block;
   margin: 5px;
   cursor: pointer;

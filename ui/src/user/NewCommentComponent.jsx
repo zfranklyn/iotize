@@ -52,7 +52,7 @@ class NewCommentComponent extends Component {
                             value={this.state.comment}
                             onChange={this.handleChange}
                             type="text"
-                            placeholder="Enter First Name"
+                            placeholder="Enter Comment..."
                         />
                         </FormGroup>
                         <Button 

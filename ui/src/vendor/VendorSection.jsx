@@ -4,17 +4,14 @@ import {
   FormControl,
   Button,
   Panel,
-  Modal,
   Label,
-  Tabs,
-  Tab,
 } from 'react-bootstrap';
 
 import React, { Component } from 'react';
-import faker from 'faker';
 import './VendorSection.css';
-import QR from 'qrcode.react';
 import ObjectDetailsModal from './ObjectDetailsModal';
+import NewObjectModal from './NewObjectModal';
+import axios from 'axios';
 
 class VendorSection extends Component {
 
@@ -24,33 +21,55 @@ class VendorSection extends Component {
         viewState: {
           loaded: false,
           showModal: false,
+          showNewObjectModal: false,
           modalId: null,
         },
         objects: [],
       }
   }
 
+  // urlRoot = 'https://cc6c85a4.ngrok.io';
+  urlRoot = '';
+  // urlRoot = 'http://localhost:8080';
+
   componentDidMount() {
-    this.setState({
-      viewState: {
-        loaded: true,
-        showModal: false,
-      },
-      objects: generateStudies(25),
+    axios.get(`${this.urlRoot}/api/objects`)
+    .then(d => d.data)
+    .then((receivedObjects) => {
+      console.log(receivedObjects);
+      this.setState({
+        viewState: {
+          loaded: true,
+          showModal: false,
+          showNewObjectModal: false,
+        },
+        objects: receivedObjects,
+      })
     })
+    .catch(console.log);
+
   }
 
   handleClickObject = (e) => {
     const ViewState = this.state.viewState;
+    ViewState.showModal = true;
+    ViewState.modalId = e;
     this.setState({
-      viewState: Object.assign({}, ViewState, {showModal: true, modalId: e}),
+      viewState: Object.assign({}, ViewState),
     });
   }
 
   handleCloseModal = () => {
     const ViewState = this.state.viewState;
     this.setState({
-      viewState: Object.assign({}, ViewState, {showModal: false}),
+      viewState: Object.assign({}, ViewState, {showModal: false, showNewObjectModal: false, modalId: null}),
+    });
+  }
+
+  handleOpenNewObjectModal = () => {
+    const ViewState = this.state.viewState;
+    this.setState({
+      viewState: Object.assign({}, ViewState, {showNewObjectModal: true}),
     });
   }
 
@@ -73,6 +92,13 @@ class VendorSection extends Component {
                 </FormGroup>
                 <Button type="submit">Submit</Button>
               </Navbar.Form>
+              <Navbar.Form pullRight>
+                <Button type="submit"
+                  onClick={this.handleOpenNewObjectModal}
+                >
+                  Create Object
+                </Button>
+              </Navbar.Form>
             </Navbar.Collapse>
           </Navbar>
           <div className="object-grid">
@@ -81,9 +107,14 @@ class VendorSection extends Component {
                 <Panel
                   key={index}
                   className="object-tile"
-                  onClick={() => this.handleClickObject(obj.id)}
+                  onClick={() => this.handleClickObject(obj._id)}
                 >
-                  <img src="../bench.jpeg" className="object-img"/>
+                  {
+                    obj.details.imageURLs.length ? 
+                    <img src={obj.details.imageURLs[0]} className="object-img"/>
+                    : null
+                  }
+                  
                   <h4>{obj.name}</h4>
                   <p>
                     {obj.details.description.split(' ').splice(0,10).join(' ')}...
@@ -102,11 +133,22 @@ class VendorSection extends Component {
               );
             })}
           </div>
-          <ObjectDetailsModal
-            showModal={this.state.viewState.showModal}
-            objectId={this.state.viewState.modalId}
+          {
+            this.state.viewState.modalId ?
+            <ObjectDetailsModal
+              showModal={this.state.viewState.showModal}
+              objectId={this.state.viewState.modalId}
+              handleCloseModal={this.handleCloseModal}
+            />
+            : null
+          }
+
+          
+          <NewObjectModal
+            showModal={this.state.viewState.showNewObjectModal}
             handleCloseModal={this.handleCloseModal}
           />
+
         </div>
       );
     } else {
@@ -117,6 +159,7 @@ class VendorSection extends Component {
 
 }
 
+/*
 const generateStudies = (n) => {
   let objects = [];
   for (let m = 0; m < n; m++) {
@@ -150,5 +193,6 @@ const generateStudies = (n) => {
   }
   return objects;
 }
+*/
 
 export default VendorSection;

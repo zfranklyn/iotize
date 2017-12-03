@@ -13,7 +13,7 @@ import React, { Component } from 'react';
 import faker from 'faker';
 import './VendorSection.css';
 import QR from 'qrcode.react';
-
+import axios from 'axios';
 
 class ObjectDetailsModal extends Component {
   
@@ -21,40 +21,28 @@ class ObjectDetailsModal extends Component {
         super(props);
         this.state = {
           loaded: false,
+          object: {}
         }
     }
+
+    urlRoot = '';
+    // urlRoot = 'https://cc6c85a4.ngrok.io';
+    urlRoot = 'https://iotize.herokuapp.com/';
+    // urlRoot = 'http://localhost:8080';
   
     componentDidMount = () => {
-      this.setState({
-        loaded: true,
-        object: {
-          id: this.props.objectId,
-          name: faker.lorem.words(3),
-          details: {
-            imageUrls: ['/bench.jpeg'],
-            description: faker.lorem.paragraphs(2),
-            customAlert: '',
-          },
-          actions: {
-            maintenance: {
-              enabled: true,
-              statusBroken: faker.helpers.randomize([true, false]),
-              maintenanceMessage: '',
-            },
-            purchase: {
-              enabled: true,
-            },
-            custom: [],
-          },
-          comments: [
-            {name: faker.name.firstName(), comment: faker.lorem.sentences(3)},
-            {name: faker.name.firstName(), comment: faker.lorem.sentences(3)},
-            {name: faker.name.firstName(), comment: faker.lorem.sentences(3)},
-          ]
-        }   
+      console.log(`Getting details for object: ${this.props.objectId}`);
+      axios.get(`${this.urlRoot}/api/object/${this.props.objectId}`)
+      .then(d => d.data)
+      .then((foundObject) => {
+        this.setState({
+          loaded: true,
+          object: foundObject,
+        })
       })
+      .catch(console.log);
     }
-    
+
     render() {
       
       if (this.state.loaded) {
@@ -97,8 +85,8 @@ class ObjectDetailsModal extends Component {
                 <Tab eventKey={3} title="Settings">
                 </Tab>
                 <Tab eventKey={4} title="QR Code">
-                  <QR value={`https://2b432d53.ngrok.io/u/viewproduct/${this.props.objectId}`}/>
-                  {`https://2b432d53.ngrok.io/u/viewproduct/${this.props.objectId}`}
+                  <QR value={`${this.urlRoot}/u/viewproduct/${this.props.objectId}`}/>
+                  {`${this.urlRoot}/u/viewproduct/${this.props.objectId}`}
                 </Tab>
               </Tabs>
             </Modal.Body>
