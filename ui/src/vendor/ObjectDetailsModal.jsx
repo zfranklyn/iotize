@@ -27,8 +27,9 @@ class ObjectDetailsModal extends Component {
 
     urlRoot = '';
     // urlRoot = 'https://cc6c85a4.ngrok.io';
-    urlRoot = 'https://iotize.herokuapp.com/';
+    // urlRoot = 'https://iotize.herokuapp.com';
     // urlRoot = 'http://localhost:8080';
+    fullURL = 'https://iotize.herokuapp.com';
   
     componentDidMount = () => {
       console.log(`Getting details for object: ${this.props.objectId}`);
@@ -85,8 +86,9 @@ class ObjectDetailsModal extends Component {
                 <Tab eventKey={3} title="Settings">
                 </Tab>
                 <Tab eventKey={4} title="QR Code">
-                  <QR value={`${this.urlRoot}/u/viewproduct/${this.props.objectId}`}/>
-                  {`${this.urlRoot}/u/viewproduct/${this.props.objectId}`}
+                  <QR value={`${this.fullURL}/u/viewproduct/${this.props.objectId}`}/>
+                  <br/>
+                  {`${this.fullURL}/u/viewproduct/${this.props.objectId}`}
                 </Tab>
               </Tabs>
             </Modal.Body>

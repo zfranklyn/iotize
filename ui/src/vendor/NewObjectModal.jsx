@@ -28,8 +28,8 @@ class NewObjectModal extends Component {
       };
     }
 
-    urlRoot = 'https://cc6c85a4.ngrok.io';
-    // urlRoot = '';
+    // urlRoot = 'https://cc6c85a4.ngrok.io';
+    urlRoot = '';
     // urlRoot = 'http://localhost:8080';
 
     handleChangeForm = (e) => {
