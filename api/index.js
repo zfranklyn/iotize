@@ -43,11 +43,12 @@ app.get('/*', (req, res) => {
     res.sendFile(path.join(__dirname, '../ui/build/index.html'));
 });
 
+const PORT = process.env.PORT || 8080;
 db.on('error', console.error.bind(console, 'connection error:'));
 db.once('open', function(){
     console.log("Connected to database");
-    app.listen(8080, () => {
-        console.log('Server listening on 8080');
+    app.listen(PORT, () => {
+        console.log(`Server listening on ${PORT}`);
         
     });    
 });
